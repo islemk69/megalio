@@ -18,7 +18,7 @@ const preloadImages = async (paths) => {
 
 onMounted(async () => {
   try {
-    const res = await fetch('/assets/assets.json')
+    const res = await fetch(import.meta.env.BASE_URL + 'assets/assets.json')
     const data = await res.json()
 
     // On a un objet : { category: [url1, url2, ...], ... }
