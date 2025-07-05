@@ -1,0 +1,51 @@
+<script setup>
+import Assets from './Assets.vue'
+import Avatar from './Avatar.vue'
+import MemeMaker from './MemeMaker.vue';
+import MemeBuilder from './MemeMaker.vue'
+
+import { provide, inject, ref } from 'vue';
+
+const imagePaths = inject('imagePaths');
+
+const assetList = ref(
+  Object.entries(imagePaths.value).map(([type, paths]) => {
+    const randomIndex = Math.floor(Math.random() * paths.length)
+    return {
+      key: type,
+      label: type.charAt(0).toUpperCase() + type.slice(1),
+      index: randomIndex,
+      value: type === 'overlays' ? randomIndex : paths[randomIndex].split('/').pop().replace('.webp', '')
+    }
+  })
+)
+
+provide('assetList', assetList)
+
+</script>
+
+<template>
+  <div class="megalio-grid">
+
+    <Assets />
+    <Avatar />
+    <MemeMaker />
+  </div>
+</template>
+
+<style scoped>
+.megalio-grid {
+    box-sizing: border-box;
+    font-size: 1rem;
+    display: grid;
+    width: 1000px;
+    height: 800px;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 2fr 1fr;
+    gap: 10px;
+    background-color: red;
+    padding: 10px;
+}
+
+
+</style>

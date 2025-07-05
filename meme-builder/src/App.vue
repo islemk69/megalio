@@ -1,30 +1,93 @@
 <script setup>
-import HelloWorld from './components/HelloWorld.vue'
+import { ref, onMounted, provide} from 'vue'
+import AvatarBuilder from './components/AvatarBuilder.vue'
+
+const isReady = ref(false)
+const imagePaths = ref([])
+
+const preloadImages = async (paths) => {
+  await Promise.all(paths.map(src =>
+    new Promise((resolve) => {
+      const img = new Image()
+      img.src = src
+      img.onload = resolve
+      img.onerror = resolve
+    })
+  ))
+}
+
+onMounted(async () => {
+  try {
+    const res = await fetch('/assets/assets.json')
+    const data = await res.json()
+
+    // On a un objet : { category: [url1, url2, ...], ... }
+    // On transforme tout en une seule liste d'URLs
+    const allPaths = Object.values(data).flat()
+    imagePaths.value = data;
+
+    await preloadImages(allPaths)
+    
+    console.log(imagePaths.value)
+    isReady.value = true
+  } catch (err) {
+    console.error('Erreur chargement assets.json :', err)
+  }
+})
+provide('imagePaths', imagePaths);
 </script>
 
 <template>
   <div>
-    <a href="https://vite.dev" target="_blank">
-      <img src="/vite.svg" class="logo" alt="Vite logo" />
-    </a>
-    <a href="https://vuejs.org/" target="_blank">
-      <img src="./assets/vue.svg" class="logo vue" alt="Vue logo" />
-    </a>
+    <div v-if="!isReady" style="height: 100vh; display: flex; align-items: center; justify-content: center;"><div class="lds-dual-ring"></div></div>
+    <div v-else>
+      <main>
+        <AvatarBuilder/>
+      </main>
+    </div>
   </div>
-  <HelloWorld msg="Vite + Vue" />
 </template>
 
 <style scoped>
-.logo {
-  height: 6em;
-  padding: 1.5em;
-  will-change: filter;
-  transition: filter 300ms;
+
+main {
+
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
-.logo:hover {
-  filter: drop-shadow(0 0 2em #646cffaa);
+
+
+.lds-dual-ring,
+.lds-dual-ring:after {
+  box-sizing: border-box;
 }
-.logo.vue:hover {
-  filter: drop-shadow(0 0 2em #42b883aa);
+.lds-dual-ring {
+  display: inline-block;
+  width: 80px;
+  height: 80px;
+  color: #333;
 }
+.lds-dual-ring:after {
+  content: " ";
+  display: block;
+  width: 64px;
+  height: 64px;
+  margin: 8px;
+  border-radius: 50%;
+  border: 6.4px solid currentColor;
+  border-color: currentColor transparent currentColor transparent;
+  animation: lds-dual-ring 1.2s linear infinite;
+}
+@keyframes lds-dual-ring {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+
 </style>
