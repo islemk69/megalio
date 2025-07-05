@@ -4,7 +4,7 @@ import { inject, computed } from 'vue'
 const assetList = inject('assetList')
 const imagePaths = inject('imagePaths')
 
-const zOrder = ['backgrounds', 'body', 'clothes', 'horns', 'eyes', 'mouth', 'necklace', 'glasses', 'hair','hats', 'accessories', 'overlays']
+const zOrder = ['backgrounds', 'body', 'clothes', 'eyes', 'mouth', 'necklace', 'glasses', 'hair','hats', 'horns', 'accessories', 'overlays']
 
 const activeImages = computed(() =>
   zOrder.map(key => {
