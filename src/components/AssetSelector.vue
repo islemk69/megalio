@@ -21,6 +21,11 @@ const emit = defineEmits(['prev', 'next'])
 </template>
 
 <style scoped>
+  @media (max-width: 768px) {
+  .asset-selector {
+    font-size: 1rem;
+  }   
+}
 .asset-selector {
   height: 50px;
   background-color: yellow;

@@ -26,9 +26,8 @@ provide('assetList', assetList)
 
 <template>
   <div class="megalio-grid">
-
+      <Avatar />
     <Assets />
-    <Avatar />
     <MemeMaker />
   </div>
 </template>
@@ -45,6 +44,15 @@ provide('assetList', assetList)
     gap: 10px;
     background-color: red;
     padding: 10px;
+}
+
+@media (max-width: 768px) {
+  .megalio-grid {
+    display: flex;
+    flex-direction: column;
+    width: 380px;
+    height: 1500px;
+  }
 }
 
 

@@ -32,6 +32,10 @@ const activeImages = computed(() =>
 </template>
 
 <style scoped>
+
+
+
+
 .avatar {
   grid-row: 1;
   grid-column: 2;
@@ -43,16 +47,17 @@ const activeImages = computed(() =>
 
 .avatar-canvas {
   position: relative;
-  width: 512px;
-  height: 512px;
+  width: 100%;
+  max-width: 512px;
+  aspect-ratio: 1;
 }
 
 .avatar-layer {
   position: absolute;
   top: 0;
   left: 0;
-  width: 512px;
-  height: 512px;
+  width: 100%;
+  height: 100%;
   object-fit: contain;
   pointer-events: none;
 }
