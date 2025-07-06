@@ -36,7 +36,7 @@ const emit = defineEmits(['prev', 'next'])
 
 .categorie {
   background-color: aqua;
-  width: 200px; /* fixe ou min-width si tu veux plus souple */
+  width: 100px; /* fixe ou min-width si tu veux plus souple */
   flex-shrink: 0; /* empêche de rétrécir */
   display: flex;
   justify-content: center;
