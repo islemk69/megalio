@@ -53,7 +53,7 @@ const emit = defineEmits(['prev', 'next'])
 
 .switch p {
   display: inline-block;
-  width: 80px;
+  width: 120px;
   display: flex;
   align-items: center;
   justify-content: center;
