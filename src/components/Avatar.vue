@@ -39,10 +39,10 @@ const activeImages = computed(() =>
 .avatar {
   grid-row: 1;
   grid-column: 2;
-  background-color: #eee;
   display: flex;
   align-items: center;
   justify-content: center;
+  border: 1px solid white;
 }
 
 .avatar-canvas {

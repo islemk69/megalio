@@ -35,15 +35,19 @@ provide('assetList', assetList)
 <style scoped>
 .megalio-grid {
     box-sizing: border-box;
-    font-size: 1rem;
+    font-size: 1.2rem;
     display: grid;
     width: 1000px;
     height: 800px;
     grid-template-columns: 1fr 1fr;
     grid-template-rows: 2fr 1fr;
     gap: 10px;
-    background-color: red;
+     background: rgba(255, 255, 255, 0.1); /* blanc très transparent */
+    backdrop-filter: blur(10px);          /* effet de flou derrière */
+    -webkit-backdrop-filter: blur(10px);  /* compatibilité Safari */
+    border: 1px solid rgba(255, 255, 255, 0.2); /* léger bord blanc */
     padding: 10px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1); /* ombre douce */
 }
 
 @media (max-width: 768px) {

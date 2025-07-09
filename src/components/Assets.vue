@@ -52,7 +52,6 @@
   .assets {
     grid-row: 1 / span 2;
     grid-column: 1;
-    background-color: blue;
     padding: 10px;
   }
 
