@@ -1,11 +1,19 @@
+<script setup>
+import { inject, ref } from 'vue'
+
+const topText = inject('topText')
+const bottomText = inject('bottomText')
+const downloadImage = inject('downloadImage')
+</script>
+
 <template>
     <div class="meme-maker">
 
       <div class="input-box">
-        <input type="text" class="top-text" placeholder="TOP TEXT">
-        <input type="text" class="bottom-text" placeholder="BOTTOM TEXT">
+        <input v-model="topText" type="text" class="top-text" placeholder="TOP TEXT">
+        <input v-model="bottomText" type="text" class="bottom-text" placeholder="BOTTOM TEXT">
       </div>
-      <button>Download</button>
+      <button @click="downloadImage">Download</button>
     </div>
 </template>
 

@@ -2,11 +2,13 @@
 import Assets from './Assets.vue'
 import Avatar from './Avatar.vue'
 import MemeMaker from './MemeMaker.vue';
-import MemeBuilder from './MemeMaker.vue'
 
 import { provide, inject, ref } from 'vue';
 
 const imagePaths = inject('imagePaths');
+const topText = ref('')
+const bottomText = ref('')
+
 
 const assetList = ref(
   Object.entries(imagePaths.value).map(([type, paths]) => {
@@ -20,7 +22,64 @@ const assetList = ref(
   })
 )
 
+
+
 provide('assetList', assetList)
+
+
+provide('topText', topText)
+provide('bottomText', bottomText)
+
+const downloadImage = async () => {
+  const canvas = document.createElement('canvas')
+  const ctx = canvas.getContext('2d')
+
+  const size = 1024
+  canvas.width = size
+  canvas.height = size
+
+  const zOrder = ['backgrounds', 'body', 'clothes', 'eyes', 'mouth', 'necklace', 'glasses', 'hair','hats', 'horns', 'accessories', 'overlays']
+  for (const key of zOrder) {
+    const asset = assetList.value.find(a => a.key === key)
+    const path = imagePaths.value[key]?.[asset?.index]
+    if (!path || path.includes('Empty')) continue
+
+    const img = new Image()
+    img.crossOrigin = 'anonymous'
+    img.src = path
+    await new Promise(resolve => {
+      img.onload = resolve
+      img.onerror = resolve
+    })
+    ctx.drawImage(img, 0, 0, size, size)
+  }
+
+  // Texte mème (haut)
+  ctx.fillStyle = 'white'
+  ctx.strokeStyle = 'black'
+  ctx.lineWidth = 15
+  ctx.font = 'bold 150px Impact'
+  ctx.textAlign = 'center'
+  ctx.textBaseline = 'top'
+  if (topText.value) {
+    ctx.strokeText(topText.value.toUpperCase(), size / 2, 20)
+    ctx.fillText(topText.value.toUpperCase(), size / 2, 20)
+  }
+
+  // Texte mème (bas)
+  if (bottomText.value) {
+    ctx.textBaseline = 'bottom'
+    ctx.strokeText(bottomText.value.toUpperCase(), size / 2, size - 20)
+    ctx.fillText(bottomText.value.toUpperCase(), size / 2, size - 20)
+  }
+
+  const link = document.createElement('a')
+  link.download = 'avatar.png'
+  link.href = canvas.toDataURL()
+  link.click()
+}
+
+provide('downloadImage', downloadImage)
 
 </script>
 
