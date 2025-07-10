@@ -58,7 +58,7 @@ const downloadImage = async () => {
   ctx.fillStyle = 'white'
   ctx.strokeStyle = 'black'
   ctx.lineWidth = 15
-  ctx.font = 'bold 150px Impact'
+  ctx.font = 'bold 150px impact'
   ctx.textAlign = 'center'
   ctx.textBaseline = 'top'
   if (topText.value) {
