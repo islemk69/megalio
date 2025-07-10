@@ -8,7 +8,7 @@ body {
   font-size: 10px;
   background-color: #EA9184;
   color: rgba(255, 255, 255, 0.9);
-  background-image: url("assets/image.png");
+  background-image: url("/image.png");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
