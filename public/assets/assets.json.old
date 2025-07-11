@@ -143,7 +143,6 @@
     "/megalio/assets/medium/clothes/Cybercore.webp",
     "/megalio/assets/medium/clothes/Desert.webp",
     "/megalio/assets/medium/clothes/Dot com.webp",
-    "/megalio/assets/medium/clothes/Dressed.webp",
     "/megalio/assets/medium/clothes/Empty.webp",
     "/megalio/assets/medium/clothes/Fake news.webp",
     "/megalio/assets/medium/clothes/Fasten.webp",
@@ -157,7 +156,6 @@
     "/megalio/assets/medium/clothes/Halfzip.webp",
     "/megalio/assets/medium/clothes/Heart.webp",
     "/megalio/assets/medium/clothes/Hes not broke.webp",
-    "/megalio/assets/medium/clothes/High neck.webp",
     "/megalio/assets/medium/clothes/Homeless.webp",
     "/megalio/assets/medium/clothes/Hoodie.webp",
     "/megalio/assets/medium/clothes/Hyperliquid ux.webp",
@@ -212,12 +210,6 @@
     "/megalio/assets/medium/clothes/Woolly.webp",
     "/megalio/assets/medium/clothes/World computer.webp",
     "/megalio/assets/medium/clothes/Zipper.webp"
-  ],
-  "costume": [
-    "/megalio/assets/medium/costume/MegaMafia.webp",
-    "/megalio/assets/medium/costume/Megamafia green.webp",
-    "/megalio/assets/medium/costume/Megamafia pink.webp",
-    "/megalio/assets/medium/costume/Rabbibi.webp"
   ],
   "eyes": [
     "/megalio/assets/medium/eyes/Also swirl.webp",

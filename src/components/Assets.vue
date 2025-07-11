@@ -15,18 +15,24 @@
   })
 
   function loadNFT(id) {
-    const nft = nftAssets.value[id]
-    if (!nft) {
-      alert("NFT introuvable.")
-      return
-    }
+  const nft = nftAssets.value[id]
+  if (!nft) {
+    alert("NFT introuvable.")
+    return
+  }
 
-    for (const [key, traitValue] of Object.entries(nft)) {
-      const asset = assetList.value.find(a => a.key === key)
-      const list = imagePaths.value[key]
-      if (!asset || !list) continue
+  for (const asset of assetList.value) {
+    const key = asset.key
+    const list = imagePaths.value[key]
+    if (!list) continue
 
-      const index = list.findIndex(path => {
+    const traitValue = nft[key]
+
+    let index = -1
+
+    if (traitValue) {
+      // Trait présent → cherche la valeur exacte
+      index = list.findIndex(path => {
         const filename = path.split('/').pop().replace('.webp', '')
         return filename === traitValue
       })
@@ -34,9 +40,19 @@
       if (index !== -1) {
         asset.index = index
         asset.value = traitValue
+        continue
       }
     }
+
+    // Trait absent OU non trouvé → cherche "Empty.webp"
+    index = list.findIndex(path => path.includes('Empty.webp'))
+    if (index !== -1) {
+      asset.index = index
+      asset.value = 'Empty'
+    }
   }
+}
+
 
   // 🔁 Navigation
   function updateValue(key, newIndex) {
@@ -137,7 +153,7 @@
   }
 
   .asset-selector-container {
-    margin-top: 30px;
+
   }
   
   </style>

@@ -1,7 +1,7 @@
 #!/bin/bash
 
-SRC_DIR="public/assets/hd"
-DEST_DIR="public/assets/medium"
+SRC_DIR="../public/assets/tmp"
+DEST_DIR="../public/assets/tmp2"
 
 mkdir -p "$DEST_DIR"
 
