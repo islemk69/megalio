@@ -13,7 +13,7 @@ for (const category of readdirSync(basePath)) {
   const catPath = join(basePath, category)
   if (statSync(catPath).isDirectory()) {
     const files = readdirSync(catPath).filter(f => f.endsWith('.webp'))
-    output[category.toLowerCase()] = files.map(f => `/assets/medium/${category}/${f}`)
+    output[category.toLowerCase()] = files.map(f => `/megalio/assets/medium/${category}/${f}`)
   }
 }
 
