@@ -10,7 +10,9 @@
     "deploy": "vite build && gh-pages -d dist"
   },
   "dependencies": {
+    "ethers": "^6.15.0",
     "html2canvas": "^1.4.1",
+    "node-fetch": "^3.3.2",
     "vue": "^3.5.17"
   },
   "devDependencies": {
