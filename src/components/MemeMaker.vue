@@ -30,7 +30,7 @@ const downloadImage = async () => {
         <input v-model="topText" type="text" class="top-text" placeholder="TOP TEXT">
         <input v-model="bottomText" type="text" class="bottom-text" placeholder="BOTTOM TEXT">
       </div>
-      <button @click="downloadImage">Download</button>
+      <button class="download-button" @click="downloadImage">Download</button>
     </div>
 </template>
 
@@ -59,5 +59,12 @@ const downloadImage = async () => {
   text-align: center;
   font-size: 1.2rem;
 }
+
+.download-button {
+   margin-left: 50%;
+   margin-top: 30px;
+    transform: translateX(-50%);
+}
+
 
 </style>
