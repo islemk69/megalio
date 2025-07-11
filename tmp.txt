@@ -1,0 +1,21 @@
+  // "overlays": [
+  //   "/megalio/assets/medium/overlays/Apps over chain.webp",
+  //   "/megalio/assets/medium/overlays/BINANCEISOFFTHECHAINGTE.webp",
+  //   "/megalio/assets/medium/overlays/Best i can do.webp",
+  //   "/megalio/assets/medium/overlays/Empty.webp",
+  //   "/megalio/assets/medium/overlays/I MUST BE TRIPPIN THERE ARE SO MANY FLUFFLES.webp",
+  //   "/megalio/assets/medium/overlays/JUSTIN SUN IS NOT A SMALL MAN SYNDROME.webp",
+  //   "/megalio/assets/medium/overlays/MAKE IT RAIN.webp",
+  //   "/megalio/assets/medium/overlays/MEGA.webp",
+  //   "/megalio/assets/medium/overlays/MEGALIO WORLD ORDER BITCH.webp",
+  //   "/megalio/assets/medium/overlays/MY MOM SAID.webp",
+  //   "/megalio/assets/medium/overlays/Measure then build.webp",
+  //   "/megalio/assets/medium/overlays/Megaeth and Megadeth.webp",
+  //   "/megalio/assets/medium/overlays/My favourite dance is tea bag.webp",
+  //   "/megalio/assets/medium/overlays/Pivot to Megaeth.webp",
+  //   "/megalio/assets/medium/overlays/Sparkles.webp",
+  //   "/megalio/assets/medium/overlays/The most unaligned aligned.webp",
+  //   "/megalio/assets/medium/overlays/WTF is decentralization.webp",
+  //   "/megalio/assets/medium/overlays/We solved the infrastructure layer.webp",
+  //   "/megalio/assets/medium/overlays/Win so hard.webp"
+  // ]

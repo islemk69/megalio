@@ -1,11 +1,42 @@
   <script setup>
-  import { ref, inject, provide } from 'vue'
+  import { ref, inject, provide, onMounted } from 'vue'
   import AssetSelector from './AssetSelector.vue'
 
   const imagePaths = inject('imagePaths')
 
   const assetList = inject('assetList')
 
+  const searchInput = ref('')
+  const nftAssets = ref({})
+
+    onMounted(async () => {
+    const res = await fetch(import.meta.env.BASE_URL + '/assets/nftAssets.json')
+    nftAssets.value = await res.json()
+  })
+
+  function loadNFT(id) {
+    const nft = nftAssets.value[id]
+    if (!nft) {
+      alert("NFT introuvable.")
+      return
+    }
+
+    for (const [key, traitValue] of Object.entries(nft)) {
+      const asset = assetList.value.find(a => a.key === key)
+      const list = imagePaths.value[key]
+      if (!asset || !list) continue
+
+      const index = list.findIndex(path => {
+        const filename = path.split('/').pop().replace('.webp', '')
+        return filename === traitValue
+      })
+
+      if (index !== -1) {
+        asset.index = index
+        asset.value = traitValue
+      }
+    }
+  }
 
   // 🔁 Navigation
   function updateValue(key, newIndex) {
@@ -39,18 +70,32 @@
       <div class="head-assets">
           <h1>Assets</h1>
           <div class="search-nft">
-            <input type="text">
-            <img src="/src/assets/recherche.png" alt="" width="20px" height="20px">
+            <input
+              type="text"
+              v-model="searchInput"
+              @keyup.enter="loadNFT(searchInput)"
+              placeholder="12 → 4444"
+            />
+            <img
+              src="/src/assets/recherche.png"
+              alt="search"
+              width="20px"
+              height="20px"
+              @click="loadNFT(searchInput)"
+            >
           </div>
       </div>
-      <AssetSelector
-        v-for="asset in assetList"
-        :key="asset.key"
-        :label="asset.label"
-        :value="asset.value"
-        @prev="handlePrev(asset.key)"
-        @next="handleNext(asset.key)"
-      />
+      <div class="asset-selector-container">
+        <AssetSelector
+          v-for="asset in assetList"
+          :key="asset.key"
+          :label="asset.label"
+          :value="asset.value"
+          @prev="handlePrev(asset.key)"
+          @next="handleNext(asset.key)"
+        />
+      </div>
+
     </div>
   </template>
 
@@ -91,5 +136,8 @@
     margin: 0 8px;
   }
 
+  .asset-selector-container {
+    margin-top: 30px;
+  }
   
   </style>
