@@ -1,12 +1,10 @@
 <script setup>
-import { inject, computed } from 'vue'
+import { inject, computed, watchEffect, ref, onMounted } from 'vue'
 
 const assetList = inject('assetList')
 const imagePaths = inject('imagePaths')
-
-const topText = inject('topText')
-const bottomText = inject('bottomText')
-
+const topText = inject('topText')               // ✅ Manquait
+const bottomText = inject('bottomText')         // ✅ Manquait
 
 const zOrder = ['backgrounds', 'body', 'clothes', 'eyes', 'mouth', 'necklace', 'glasses', 'hair','hats', 'horns', 'accessories', 'overlays']
 
@@ -20,20 +18,38 @@ const activeImages = computed(() =>
     }
   }).filter(img => img.path && !img.path.includes('Empty'))
 )
-console.log(topText)
+
+const avatarCanvas = ref(null)
+const textFontSize = ref('600px') // taille par défaut raisonnable
+
+onMounted(() => {
+  if (avatarCanvas.value) {
+    const resizeObserver = new ResizeObserver(entries => {
+      for (const entry of entries) {
+        const width = entry.contentRect.width
+        // Exemple : 6% de la largeur du conteneur
+        const fontSize = width * 0.1
+        textFontSize.value = `${fontSize}px`
+      }
+    })
+    resizeObserver.observe(avatarCanvas.value)
+  }
+})
+
+
 </script>
 
 <template>
   <div class="avatar">
-    <div class="avatar-canvas">
+    <div class="avatar-canvas" ref="avatarCanvas">
       <img
         v-for="layer in activeImages"
         :key="layer.key"
         :src="layer.path"
         class="avatar-layer"
       />
-      <div class="meme-text top">{{ topText }}</div>
-      <div class="meme-text bottom">{{ bottomText }}</div>
+    <div class="meme-text top" :style="{ fontSize: textFontSize }">{{ topText }}</div>
+    <div class="meme-text bottom" :style="{ fontSize: textFontSize }">{{ bottomText }}</div>
     </div>
 
   </div>
@@ -71,7 +87,6 @@ console.log(topText)
   position: absolute;
   width: 100%;
   color: white;
-  font-size: 4rem;
   font-weight: bold;
   text-align: center;
   text-shadow: 2px 2px 4px black;

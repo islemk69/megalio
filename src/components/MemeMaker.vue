@@ -1,9 +1,26 @@
 <script setup>
 import { inject, ref } from 'vue'
+import html2canvas from 'html2canvas'
 
 const topText = inject('topText')
 const bottomText = inject('bottomText')
-const downloadImage = inject('downloadImage')
+
+const downloadImage = async () => {
+  const canvasElement = document.querySelector('.avatar-canvas')
+  if (!canvasElement) return
+
+  const canvas = await html2canvas(canvasElement, {
+    useCORS: true, // important si tu charges des images externes
+    allowTaint: false,
+    backgroundColor: null, // garde la transparence
+    scale: 2 // pour une meilleure qualité
+  })
+
+  const link = document.createElement('a')
+  link.download = 'meme.png'
+  link.href = canvas.toDataURL('image/png')
+  link.click()
+}
 </script>
 
 <template>
