@@ -214,6 +214,7 @@
     "/megalio/assets/medium/clothes/Zipper.webp"
   ],
   "costume": [
+    "/megalio/assets/medium/costume/Empty.webp",
     "/megalio/assets/medium/costume/MegaMafia.webp",
     "/megalio/assets/medium/costume/Megamafia green.webp",
     "/megalio/assets/medium/costume/Megamafia pink.webp",
@@ -252,7 +253,6 @@
     "/megalio/assets/medium/glasses/Broke.webp",
     "/megalio/assets/medium/glasses/Cat.webp",
     "/megalio/assets/medium/glasses/Circle shades.webp",
-    "/megalio/assets/medium/glasses/Empty.webp",
     "/megalio/assets/medium/glasses/Flux lenses.webp",
     "/megalio/assets/medium/glasses/G gang.webp",
     "/megalio/assets/medium/glasses/I see double.webp",

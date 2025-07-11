@@ -8,7 +8,7 @@ const bottomText = inject('bottomText')         // ✅ Manquait
 const avatarVisible = ref(true)
 
 
-const zOrder = ['backgrounds', 'body', 'costume', 'clothes', 'eyes', 'mouth', 'necklace', 'glasses', 'hair','hats', 'horns', 'accessories']
+const zOrder = ['backgrounds', 'body', 'clothes', 'eyes', 'mouth', 'necklace', 'glasses', 'hair', 'costume' ,'hats', 'horns', 'accessories']
 
 const activeImages = computed(() =>
   zOrder.map(key => {
