@@ -36,7 +36,13 @@
 
   <template>
     <div class="assets">
-      <h1>Assets</h1>
+      <div class="head-assets">
+          <h1>Assets</h1>
+          <div class="search-nft">
+            <input type="text">
+            <img src="/src/assets/recherche.png" alt="" width="20px" height="20px">
+          </div>
+      </div>
       <AssetSelector
         v-for="asset in assetList"
         :key="asset.key"
@@ -53,6 +59,36 @@
     grid-row: 1 / span 2;
     grid-column: 1;
     padding: 10px;
+  }
+
+  
+  @media (max-width: 768px) {
+    h1 {
+      font-size: 1.6rem;
+    }
+  }
+
+  .head-assets {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rebeccapurple;
+  }
+
+  .search-nft {
+    display: flex;
+    align-items: center;
+    justify-content: end;
+    width: 300px;
+  }
+
+  .search-nft input {
+    height: 20px;
+  }
+
+  .search-nft img {
+    cursor: pointer;
+    margin: 0 8px;
   }
 
   

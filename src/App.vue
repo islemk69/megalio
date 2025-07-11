@@ -50,6 +50,9 @@ provide('imagePaths', imagePaths);
         </nav>
         <AvatarBuilder/>
       </main>
+      <footer>
+        <p>Copyright Shalom shalimi mikhary mikhoury</p>
+      </footer>
     </div>
   </div>
 </template>
@@ -57,19 +60,25 @@ provide('imagePaths', imagePaths);
 <style scoped>
 
 main {
-
   min-height: 100vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  padding: 10px;
+  padding: 5px;
 }
+
 
 nav ul {
   display: flex;
   font-size: 2rem;
   list-style-type: none;
+}
+
+  @media (max-width: 768px) {
+   nav ul {
+    font-size: 1.75rem;
+  }
 }
 
 nav ul li {
@@ -112,5 +121,15 @@ a {
   }
 }
 
+footer {
+  height: 200px;
+  background-color: black;
+  margin-top: 1rem;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+}
 
 </style>
