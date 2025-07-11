@@ -42,6 +42,12 @@ provide('imagePaths', imagePaths);
     <div v-if="!isReady" style="height: 100vh; display: flex; align-items: center; justify-content: center;"><div class="lds-dual-ring"></div></div>
     <div v-else>
       <main>
+        <nav>
+          <ul>
+            <li><a href="">Avatar Builder</a></li>
+            <li><a href="">Meme Editor</a></li>
+          </ul>
+        </nav>
         <AvatarBuilder/>
       </main>
     </div>
@@ -54,9 +60,25 @@ main {
 
   min-height: 100vh;
   display: flex;
+  flex-direction: column;
   align-items: center;
   justify-content: center;
   padding: 10px;
+}
+
+nav ul {
+  display: flex;
+  font-size: 2rem;
+  list-style-type: none;
+}
+
+nav ul li {
+    margin: 0 10px;
+}
+
+a {
+  color: black;
+  text-decoration: none;
 }
 
 

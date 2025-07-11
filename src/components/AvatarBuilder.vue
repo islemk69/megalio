@@ -35,17 +35,12 @@ provide('bottomText', bottomText)
 </script>
 
 <template>
-  <nav>
-    <ul>
-      <li><a href="">Avatar Builder</a></li>
-      <li><a href="">Meme Editor</a></li>
-    </ul>
-  </nav>
   <div class="megalio-grid">
     <Avatar />
     <Assets />
     <MemeMaker />
   </div>
+  
 </template>
 
 <style scoped>

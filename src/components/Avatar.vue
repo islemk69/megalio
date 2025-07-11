@@ -5,6 +5,8 @@ const assetList = inject('assetList')
 const imagePaths = inject('imagePaths')
 const topText = inject('topText')               // ✅ Manquait
 const bottomText = inject('bottomText')         // ✅ Manquait
+const avatarVisible = ref(true)
+
 
 const zOrder = ['backgrounds', 'body', 'clothes', 'eyes', 'mouth', 'necklace', 'glasses', 'hair','hats', 'horns', 'accessories', 'overlays']
 
@@ -21,20 +23,32 @@ const activeImages = computed(() =>
 
 const avatarCanvas = ref(null)
 const textFontSize = ref('600px') // taille par défaut raisonnable
+const miniFontSize = ref('10px')
 
 onMounted(() => {
   if (avatarCanvas.value) {
     const resizeObserver = new ResizeObserver(entries => {
       for (const entry of entries) {
         const width = entry.contentRect.width
-        // Exemple : 6% de la largeur du conteneur
         const fontSize = width * 0.1
         textFontSize.value = `${fontSize}px`
       }
     })
     resizeObserver.observe(avatarCanvas.value)
+
+    // ⬇️ Observe si l'avatar est visible à l'écran
+    const observer = new IntersectionObserver(([entry]) => {
+      avatarVisible.value = entry.isIntersecting
+    }, { threshold: 0.01 })
+
+    observer.observe(avatarCanvas.value)
   }
+
+  // Taille de police mini-avatar : fixée à une valeur raisonnable
+  miniFontSize.value = '24px'
 })
+
+
 
 
 </script>
@@ -53,6 +67,18 @@ onMounted(() => {
     </div>
 
   </div>
+  <div v-if="!avatarVisible" class="avatar-mini">
+  <div class="avatar-canvas mini">
+    <img
+      v-for="layer in activeImages"
+      :key="layer.key"
+      :src="layer.path"
+      class="avatar-layer"
+    />
+    <div class="meme-text top" :style="{ fontSize: miniFontSize }">{{ topText }}</div>
+    <div class="meme-text bottom" :style="{ fontSize: miniFontSize }">{{ bottomText }}</div>
+  </div>
+</div>
 </template>
 
 <style scoped>
@@ -113,6 +139,27 @@ onMounted(() => {
 .meme-text.bottom {
   bottom: 0;
 
+}
+
+.avatar-mini {
+  position: fixed;
+  bottom: 12px;
+  left: 12px;
+  width: 256px;
+  height: 256px;
+  z-index: 1000;
+  pointer-events: none;
+  opacity: 0.9;
+  border: 1px solid white;
+  background: #111;
+  border-radius: 8px;
+}
+
+.avatar-canvas.mini {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  aspect-ratio: 1;
 }
 </style>
 
