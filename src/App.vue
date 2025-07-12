@@ -67,10 +67,15 @@ main {
   flex-direction: column;
   background-image: url("/image.png");
   align-items: center;
-  justify-content: center;
-  padding: 5px;
 }
 
+nav {
+  background-color: black;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
 
 nav ul {
   display: flex;
@@ -89,7 +94,7 @@ nav ul li {
 }
 
 a {
-  color: black;
+  color: white;
   text-decoration: none;
 }
 

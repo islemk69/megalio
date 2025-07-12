@@ -13,9 +13,22 @@ body {
 }
 
 input[type="text"] {
-    outline: none;
-    border: 1px solid black;
-    border-radius: 5px;
+  padding: 10px 14px;
+  font-size: 1rem;
+  border: 2px solid #ccc;
+  border-radius: 8px;
+  outline: none;
+  transition: border-color 0.25s, box-shadow 0.25s;
+  background-color: white;
+  color: #333;
+  width: 40%;
+  max-width: 300px;
+  box-sizing: border-box;
+}
+
+input[type="text"]:focus {
+  border-color: #7b3fe4;
+  box-shadow: 0 0 0 3px rgba(123, 63, 228, 0.2);
 }
 
 /* CSS */

@@ -43,7 +43,6 @@ const downloadImage = async () => {
   grid-column: 2;
   padding: 10px;
   height: 100%;
-  
 }
 
 .input-box {

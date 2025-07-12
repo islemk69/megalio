@@ -45,6 +45,7 @@ provide('bottomText', bottomText)
 
 <style scoped>
 .megalio-grid {
+    margin-top: 30px;  
     box-sizing: border-box;
     font-size: 1.2rem;
     display: grid;
