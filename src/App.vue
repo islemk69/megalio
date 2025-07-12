@@ -79,13 +79,13 @@ nav {
 
 nav ul {
   display: flex;
-  font-size: 2rem;
+  font-size: 1.2rem;
   list-style-type: none;
 }
 
   @media (max-width: 768px) {
    nav ul {
-    font-size: 1.75rem;
+    font-size: 1rem;
   }
 }
 
