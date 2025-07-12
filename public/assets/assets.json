@@ -211,14 +211,11 @@
     "/megalio/assets/medium/clothes/Wizard.webp",
     "/megalio/assets/medium/clothes/Woolly.webp",
     "/megalio/assets/medium/clothes/World computer.webp",
-    "/megalio/assets/medium/clothes/Zipper.webp"
-  ],
-  "costume": [
-    "/megalio/assets/medium/costume/Empty.webp",
-    "/megalio/assets/medium/costume/MegaMafia.webp",
-    "/megalio/assets/medium/costume/Megamafia green.webp",
-    "/megalio/assets/medium/costume/Megamafia pink.webp",
-    "/megalio/assets/medium/costume/Rabbibi.webp"
+    "/megalio/assets/medium/clothes/Zipper.webp",
+    "/megalio/assets/medium/clothes/Empty.webp",
+    "/megalio/assets/medium/clothes/MegaMafia.webp",
+    "/megalio/assets/medium/clothes/Megamafia green.webp",
+    "/megalio/assets/medium/clothes/Megamafia pink.webp"
   ],
   "eyes": [
     "/megalio/assets/medium/eyes/Also swirl.webp",
@@ -341,7 +338,8 @@
     "/megalio/assets/medium/hats/Straw.webp",
     "/megalio/assets/medium/hats/Trade fast.webp",
     "/megalio/assets/medium/hats/Trends.webp",
-    "/megalio/assets/medium/hats/World engine.webp"
+    "/megalio/assets/medium/hats/World engine.webp",
+    "/megalio/assets/medium/hats/Rabbibi.webp"
   ],
   "horns": [
     "/megalio/assets/medium/horns/Bunny green.webp",

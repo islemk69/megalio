@@ -1,6 +1,8 @@
 <script setup>
 import { ref, onMounted, provide} from 'vue'
 import AvatarBuilder from './components/AvatarBuilder.vue'
+import { RouterView, RouterLink } from 'vue-router'
+
 
 const isReady = ref(false)
 const imagePaths = ref([])
@@ -44,11 +46,11 @@ provide('imagePaths', imagePaths);
       <main>
         <nav>
           <ul>
-            <li><a href="">Avatar Builder</a></li>
-            <li><a href="">Meme Editor</a></li>
+            <li><RouterLink to="/">Avatar Builder</RouterLink></li>
+            <li><RouterLink to="/memeoverlay">Meme Editor</RouterLink></li>
           </ul>
         </nav>
-        <AvatarBuilder/>
+        <RouterView />
       </main>
       <footer>
         <p>Copyright Shalom shalimi mikhary mikhoury</p>
@@ -63,6 +65,7 @@ main {
   min-height: 100vh;
   display: flex;
   flex-direction: column;
+  background-image: url("/image.png");
   align-items: center;
   justify-content: center;
   padding: 5px;

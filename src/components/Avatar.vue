@@ -8,7 +8,7 @@ const bottomText = inject('bottomText')         // ✅ Manquait
 const avatarVisible = ref(true)
 
 
-const zOrder = ['backgrounds', 'body', 'clothes', 'eyes', 'mouth', 'necklace', 'glasses', 'hair', 'costume' ,'hats', 'horns', 'accessories']
+const zOrder = ['backgrounds', 'body', 'clothes', 'eyes', 'glasses', 'hair', 'mouth','horns', 'hats', 'necklace', 'accessories']
 
 const activeImages = computed(() =>
   zOrder.map(key => {
@@ -143,8 +143,8 @@ onMounted(() => {
 
 .avatar-mini {
   position: fixed;
-  bottom: 12px;
-  left: 12px;
+  bottom: 5px;
+  left: 5px;
   width: 256px;
   height: 256px;
   z-index: 1000;
