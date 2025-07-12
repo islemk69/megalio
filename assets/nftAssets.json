@@ -258,7 +258,7 @@
     "eyes": "Brown",
     "hair": "Scruffy black",
     "mouth": "Haha",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "accessories": "Ethcc ticket"
   },
   "40": {
@@ -441,13 +441,13 @@
     "eyes": "Blue",
     "hair": "Scruffy black",
     "mouth": "Clong",
-    "costume": "Rabbibi"
+    "hats": "Rabbibi"
   },
   "59": {
     "backgrounds": "Omega",
     "body": "Brown",
     "eyes": "I cant see",
-    "costume": "MegaMafia"
+    "clothes": "MegaMafia"
   },
   "60": {
     "backgrounds": "Aliens are here",
@@ -506,7 +506,7 @@
     "eyes": "Candy",
     "hair": "Degen",
     "mouth": "Mmh",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "accessories": "Ethcc ticket"
   },
   "66": {
@@ -713,7 +713,7 @@
     "eyes": "Grey",
     "hair": "Degen",
     "mouth": "Hip",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "accessories": "Laser gun"
   },
   "88": {
@@ -813,7 +813,7 @@
     "eyes": "Blue",
     "hair": "Degen",
     "mouth": "Hehe",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "overlay": "Measure then build"
   },
   "98": {
@@ -937,7 +937,7 @@
     "eyes": "Green",
     "hair": "Socialist black",
     "mouth": "Bling",
-    "costume": "Rabbibi"
+    "hats": "Rabbibi"
   },
   "111": {
     "backgrounds": "Aliens are here",
@@ -975,7 +975,7 @@
     "eyes": "Pretty",
     "hair": "Scruffy black",
     "mouth": "Mmh",
-    "costume": "Rabbibi"
+    "hats": "Rabbibi"
   },
   "115": {
     "backgrounds": "Bread setup",
@@ -1177,7 +1177,7 @@
     "eyes": "Fluffle green",
     "hair": "Socialist black",
     "mouth": "Huh",
-    "costume": "Rabbibi"
+    "hats": "Rabbibi"
   },
   "136": {
     "backgrounds": "Megabul",
@@ -1186,7 +1186,7 @@
     "eyes": "Swirl",
     "hair": "Scruffy black",
     "mouth": "Huh",
-    "costume": "Rabbibi"
+    "hats": "Rabbibi"
   },
   "137": {
     "backgrounds": "Rainmakr city",
@@ -1440,7 +1440,7 @@
     "eyes": "Green",
     "hair": "Degen",
     "mouth": "Huff",
-    "costume": "Rabbibi"
+    "hats": "Rabbibi"
   },
   "164": {
     "backgrounds": "Omega",
@@ -1500,7 +1500,7 @@
     "backgrounds": "I am your megalio",
     "body": "White",
     "eyes": "Yellow",
-    "costume": "MegaMafia"
+    "clothes": "MegaMafia"
   },
   "171": {
     "backgrounds": "Mega rabbit",
@@ -1599,7 +1599,7 @@
     "eyes": "Brown",
     "hair": "Socialist black",
     "mouth": "Huff",
-    "costume": "Rabbibi"
+    "hats": "Rabbibi"
   },
   "181": {
     "backgrounds": "Backrooms",
@@ -1788,7 +1788,7 @@
     "backgrounds": "Copacabana",
     "body": "Beige",
     "eyes": "Yellow",
-    "costume": "MegaMafia"
+    "clothes": "MegaMafia"
   },
   "201": {
     "backgrounds": "Rabbit cat",
@@ -1807,7 +1807,7 @@
     "eyes": "Error",
     "hair": "Degen",
     "mouth": "Haha",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "overlay": "BINANCEISOFFTHECHAINGTE"
   },
   "203": {
@@ -1845,7 +1845,7 @@
     "eyes": "Blue",
     "hair": "Degen",
     "mouth": "Huff",
-    "costume": "Rabbibi"
+    "hats": "Rabbibi"
   },
   "207": {
     "backgrounds": "World pepe size",
@@ -2206,7 +2206,7 @@
     "backgrounds": "Mega rabbit",
     "body": "Tattoo eth",
     "eyes": "Swirl",
-    "costume": "Megamafia pink"
+    "clothes": "Megamafia pink"
   },
   "245": {
     "backgrounds": "No gas limit",
@@ -2373,7 +2373,7 @@
     "eyes": "Fluffle green",
     "hair": "Degen",
     "mouth": "Huff",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "accessories": "Golf"
   },
   "263": {
@@ -2498,7 +2498,7 @@
     "eyes": "Rain",
     "hair": "Degen",
     "mouth": "Mmh",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "accessories": "Musk knows"
   },
   "276": {
@@ -2615,7 +2615,7 @@
     "eyes": "Brown",
     "hair": "Socialist black",
     "mouth": "Huh",
-    "costume": "Rabbibi"
+    "hats": "Rabbibi"
   },
   "288": {
     "backgrounds": "ETHBTC",
@@ -2697,7 +2697,7 @@
     "backgrounds": "Desert",
     "body": "Beige",
     "eyes": "Blue",
-    "costume": "Megamafia pink",
+    "clothes": "Megamafia pink",
     "accessories": "Money"
   },
   "297": {
@@ -2792,7 +2792,7 @@
     "eyes": "Blue",
     "hair": "Scruffy black",
     "mouth": "Haha",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "overlay": "Measure then build"
   },
   "307": {
@@ -3370,7 +3370,7 @@
     "eyes": "Cyberred",
     "hair": "Scruffy black",
     "mouth": "Hip",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "overlay": "My favourite dance is tea bag"
   },
   "368": {
@@ -3516,7 +3516,7 @@
     "eyes": "Fluffle green",
     "hair": "Degen",
     "mouth": "Bling",
-    "costume": "Rabbibi"
+    "hats": "Rabbibi"
   },
   "384": {
     "backgrounds": "Mega in town",
@@ -4065,7 +4065,7 @@
     "eyes": "Candy",
     "hair": "Scruffy black",
     "mouth": "Grrr",
-    "costume": "Rabbibi"
+    "hats": "Rabbibi"
   },
   "442": {
     "backgrounds": "Mega wings",
@@ -4136,7 +4136,7 @@
     "backgrounds": "Rainmakr city",
     "body": "Beige",
     "eyes": "The end",
-    "costume": "Megamafia green",
+    "clothes": "Megamafia green",
     "accessories": "Katana"
   },
   "450": {
@@ -4243,7 +4243,7 @@
     "backgrounds": "Remilia world order",
     "body": "Tattoo chart",
     "eyes": "Fluffle green",
-    "costume": "MegaMafia"
+    "clothes": "MegaMafia"
   },
   "461": {
     "backgrounds": "Sphere",
@@ -4340,7 +4340,7 @@
     "backgrounds": "Hello world",
     "body": "Tan",
     "eyes": "Cyberred",
-    "costume": "Megamafia pink"
+    "clothes": "Megamafia pink"
   },
   "471": {
     "backgrounds": "Desert",
@@ -4401,7 +4401,7 @@
     "eyes": "Red",
     "hair": "Scruffy black",
     "mouth": "Hehe",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "overlay": "I MUST BE TRIPPIN"
   },
   "478": {
@@ -4616,7 +4616,7 @@
     "eyes": "Cybergreen",
     "hair": "Degen",
     "mouth": "Bling",
-    "costume": "Rabbibi"
+    "hats": "Rabbibi"
   },
   "500": {
     "backgrounds": "I play here",
@@ -4631,7 +4631,7 @@
     "backgrounds": "Hood",
     "body": "Tattoo eth",
     "eyes": "Yellow",
-    "costume": "MegaMafia"
+    "clothes": "MegaMafia"
   },
   "502": {
     "backgrounds": "Psychedelic",
@@ -4738,7 +4738,7 @@
     "eyes": "Grey",
     "hair": "Socialist black",
     "mouth": "Huff",
-    "costume": "Rabbibi"
+    "hats": "Rabbibi"
   },
   "513": {
     "backgrounds": "Bread setup",
@@ -5110,14 +5110,14 @@
     "backgrounds": "Rust in prod",
     "body": "White",
     "eyes": "The end",
-    "costume": "Megamafia green",
+    "clothes": "Megamafia green",
     "accessories": "Book"
   },
   "551": {
     "backgrounds": "Hollywood basement",
     "body": "Pale",
     "eyes": "The end",
-    "costume": "MegaMafia"
+    "clothes": "MegaMafia"
   },
   "552": {
     "backgrounds": "Uwu",
@@ -5138,7 +5138,7 @@
     "backgrounds": "Our profits",
     "body": "Glitch",
     "eyes": "Cyberred",
-    "costume": "Megamafia green"
+    "clothes": "Megamafia green"
   },
   "555": {
     "backgrounds": "Code",
@@ -5336,7 +5336,7 @@
     "eyes": "Crimson",
     "hair": "Scruffy black",
     "mouth": "Huff",
-    "costume": "Rabbibi"
+    "hats": "Rabbibi"
   },
   "576": {
     "backgrounds": "Lambo",
@@ -5442,7 +5442,7 @@
     "backgrounds": "Aliens are here",
     "body": "White",
     "eyes": "Error",
-    "costume": "Megamafia green",
+    "clothes": "Megamafia green",
     "accessories": "Ethcc ticket"
   },
   "588": {
@@ -5569,7 +5569,7 @@
     "eyes": "Candy",
     "hair": "Socialist black",
     "mouth": "Huff",
-    "costume": "Rabbibi"
+    "hats": "Rabbibi"
   },
   "601": {
     "backgrounds": "Hill",
@@ -5627,7 +5627,7 @@
     "eyes": "Pretty",
     "hair": "Socialist black",
     "mouth": "Huh",
-    "costume": "Rabbibi"
+    "hats": "Rabbibi"
   },
   "607": {
     "backgrounds": "Our profits",
@@ -5795,7 +5795,7 @@
     "eyes": "Yellow",
     "hair": "Degen",
     "mouth": "Clong",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "overlay": "Megaeth and Megadeth"
   },
   "624": {
@@ -6019,7 +6019,7 @@
     "eyes": "Skies",
     "hair": "Scruffy black",
     "mouth": "Huh",
-    "costume": "Rabbibi"
+    "hats": "Rabbibi"
   },
   "648": {
     "backgrounds": "Not enough carrots",
@@ -6143,7 +6143,7 @@
     "backgrounds": "World computer",
     "body": "Tattoo eth",
     "eyes": "Fluffle green",
-    "costume": "MegaMafia",
+    "clothes": "MegaMafia",
     "accessories": "Ethcc ticket"
   },
   "662": {
@@ -6313,7 +6313,7 @@
     "eyes": "Wen moon",
     "hair": "Degen",
     "mouth": "Uh",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "accessories": "Money"
   },
   "680": {
@@ -6353,7 +6353,7 @@
     "eyes": "Red",
     "hair": "Scruffy black",
     "mouth": "Hehe",
-    "costume": "Rabbibi"
+    "hats": "Rabbibi"
   },
   "684": {
     "backgrounds": "Illegal alien rabbit",
@@ -6823,7 +6823,7 @@
     "backgrounds": "Psychedelic",
     "body": "Brown",
     "eyes": "Red",
-    "costume": "MegaMafia"
+    "clothes": "MegaMafia"
   },
   "734": {
     "backgrounds": "Pyramids",
@@ -6870,7 +6870,7 @@
     "eyes": "Cybergreen",
     "hair": "Degen",
     "mouth": "Huh",
-    "costume": "Rabbibi"
+    "hats": "Rabbibi"
   },
   "739": {
     "backgrounds": "Mega background",
@@ -7027,7 +7027,7 @@
     "eyes": "Cybergreen",
     "hair": "Scruffy black",
     "mouth": "Clong",
-    "costume": "Rabbibi"
+    "hats": "Rabbibi"
   },
   "755": {
     "backgrounds": "Rainmakr city",
@@ -7036,7 +7036,7 @@
     "eyes": "Fluffle green",
     "hair": "Scruffy black",
     "mouth": "Hehe",
-    "costume": "Rabbibi"
+    "hats": "Rabbibi"
   },
   "756": {
     "backgrounds": "Illegal alien rabbit",
@@ -7187,7 +7187,7 @@
     "eyes": "Reptilian",
     "hair": "Socialist black",
     "mouth": "Uh",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "overlay": "I MUST BE TRIPPIN"
   },
   "772": {
@@ -7276,14 +7276,14 @@
     "eyes": "Yellow",
     "hair": "Degen",
     "mouth": "Hehe",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "accessories": "Megaeth token"
   },
   "781": {
     "backgrounds": "Gmegalio",
     "body": "Tattoo megaeth",
     "eyes": "Cybergreen",
-    "costume": "MegaMafia",
+    "clothes": "MegaMafia",
     "accessories": "Lucille"
   },
   "782": {
@@ -7349,7 +7349,7 @@
     "eyes": "Red",
     "hair": "Socialist black",
     "mouth": "Grrr",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "accessories": "Ethcc ticket"
   },
   "789": {
@@ -7414,7 +7414,7 @@
     "eyes": "Grey",
     "hair": "Socialist black",
     "mouth": "Huff",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "overlay": "Megaeth and Megadeth"
   },
   "796": {
@@ -7536,7 +7536,7 @@
     "eyes": "Red",
     "hair": "Scruffy black",
     "mouth": "Woaaah",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "accessories": "Mug"
   },
   "809": {
@@ -7581,7 +7581,7 @@
     "backgrounds": "NGMI",
     "body": "Tattoo gamer",
     "eyes": "Brown",
-    "costume": "MegaMafia"
+    "clothes": "MegaMafia"
   },
   "814": {
     "backgrounds": "Fafel jet",
@@ -7609,7 +7609,7 @@
     "eyes": "Brown",
     "hair": "Socialist black",
     "mouth": "Uh",
-    "costume": "Rabbibi"
+    "hats": "Rabbibi"
   },
   "817": {
     "backgrounds": "4chan",
@@ -7700,7 +7700,7 @@
     "backgrounds": "Watergate spy",
     "body": "Tan",
     "eyes": "Blue",
-    "costume": "Megamafia green",
+    "clothes": "Megamafia green",
     "accessories": "Golf"
   },
   "827": {
@@ -7919,7 +7919,7 @@
     "eyes": "Blue",
     "hair": "Degen",
     "mouth": "Hehe",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "accessories": "Katana"
   },
   "850": {
@@ -7938,7 +7938,7 @@
     "eyes": "Yellow",
     "hair": "Socialist black",
     "mouth": "Hehe",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "overlay": "We solved the infrastructure layer"
   },
   "852": {
@@ -7968,7 +7968,7 @@
     "eyes": "Rain",
     "hair": "Scruffy black",
     "mouth": "Huff",
-    "costume": "Rabbibi"
+    "hats": "Rabbibi"
   },
   "855": {
     "backgrounds": "Mega uptime",
@@ -7986,7 +7986,7 @@
     "eyes": "Pretty",
     "hair": "Socialist black",
     "mouth": "Clong",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "accessories": "Ethcc ticket"
   },
   "857": {
@@ -8014,7 +8014,7 @@
     "eyes": "Candy",
     "hair": "Degen",
     "mouth": "Clong",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "overlay": "Apps over chain"
   },
   "860": {
@@ -8178,7 +8178,7 @@
     "backgrounds": "Fafel jet",
     "body": "Tattoo eth",
     "eyes": "Candy",
-    "costume": "Megamafia green",
+    "clothes": "Megamafia green",
     "accessories": "Mug"
   },
   "877": {
@@ -8197,7 +8197,7 @@
     "eyes": "Rain",
     "hair": "Degen",
     "mouth": "Uh",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "accessories": "Sword"
   },
   "879": {
@@ -8238,7 +8238,7 @@
     "eyes": "Grey",
     "hair": "Socialist black",
     "mouth": "Huh",
-    "costume": "Rabbibi"
+    "hats": "Rabbibi"
   },
   "883": {
     "backgrounds": "Sphere",
@@ -8309,7 +8309,7 @@
     "eyes": "I love you mdma",
     "hair": "Scruffy black",
     "mouth": "Clong",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "accessories": "Green candle"
   },
   "890": {
@@ -8444,7 +8444,7 @@
     "eyes": "Blue",
     "hair": "Degen",
     "mouth": "Grrr",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "accessories": "Mug"
   },
   "905": {
@@ -8557,7 +8557,7 @@
     "eyes": "Red",
     "hair": "Socialist black",
     "mouth": "Haha",
-    "costume": "Rabbibi"
+    "hats": "Rabbibi"
   },
   "917": {
     "backgrounds": "Fafel jet",
@@ -8583,7 +8583,7 @@
     "backgrounds": "Mega rooftop",
     "body": "Tattoo chart",
     "eyes": "Fluffle green",
-    "costume": "MegaMafia"
+    "clothes": "MegaMafia"
   },
   "920": {
     "backgrounds": "Climate change is fake",
@@ -8622,7 +8622,7 @@
     "eyes": "Rain",
     "hair": "Degen",
     "mouth": "Huh",
-    "costume": "Rabbibi"
+    "hats": "Rabbibi"
   },
   "924": {
     "backgrounds": "Megabul",
@@ -8833,7 +8833,7 @@
     "eyes": "Yellow",
     "hair": "Scruffy black",
     "mouth": "Woaaah",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "overlay": "Apps over chain"
   },
   "946": {
@@ -8881,7 +8881,7 @@
     "eyes": "Candy",
     "hair": "Scruffy black",
     "mouth": "Haha",
-    "costume": "Rabbibi"
+    "hats": "Rabbibi"
   },
   "951": {
     "backgrounds": "Mega background",
@@ -8935,7 +8935,7 @@
     "eyes": "The end",
     "hair": "Socialist black",
     "mouth": "Haha",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "accessories": "Mug"
   },
   "957": {
@@ -9358,7 +9358,7 @@
     "eyes": "Cyberred",
     "hair": "Degen",
     "mouth": "Huff",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "accessories": "Vape"
   },
   "1000": {
@@ -9515,7 +9515,7 @@
     "eyes": "Yellow",
     "hair": "Scruffy black",
     "mouth": "Hip",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "overlay": "Sparkles"
   },
   "1016": {
@@ -9666,7 +9666,7 @@
     "backgrounds": "Sunset fluffle",
     "body": "Tan",
     "eyes": "Blue",
-    "costume": "Megamafia pink"
+    "clothes": "Megamafia pink"
   },
   "1032": {
     "backgrounds": "Pope",
@@ -9733,7 +9733,7 @@
     "eyes": "Skies",
     "hair": "Degen",
     "mouth": "Huh",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "overlay": "MAKE IT RAIN"
   },
   "1039": {
@@ -9762,7 +9762,7 @@
     "eyes": "Fluffle pink",
     "hair": "Scruffy black",
     "mouth": "Bling",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "accessories": "Musk knows"
   },
   "1042": {
@@ -9818,7 +9818,7 @@
     "eyes": "Cyberred",
     "hair": "Scruffy black",
     "mouth": "Woaaah",
-    "costume": "Rabbibi"
+    "hats": "Rabbibi"
   },
   "1048": {
     "backgrounds": "Backrooms",
@@ -9854,7 +9854,7 @@
     "eyes": "Red",
     "hair": "Degen",
     "mouth": "Haha",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "overlay": "Apps over chain"
   },
   "1052": {
@@ -9874,7 +9874,7 @@
     "eyes": "Crimson",
     "hair": "Scruffy black",
     "mouth": "Woaaah",
-    "costume": "Rabbibi"
+    "hats": "Rabbibi"
   },
   "1054": {
     "backgrounds": "Gmegalio",
@@ -10125,7 +10125,7 @@
     "eyes": "Fluffle green",
     "hair": "Socialist black",
     "mouth": "Bling",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "accessories": "Ethcc ticket"
   },
   "1080": {
@@ -10135,7 +10135,7 @@
     "eyes": "Pretty",
     "hair": "Degen",
     "mouth": "Hehe",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "accessories": "Diamond hands"
   },
   "1081": {
@@ -10166,7 +10166,7 @@
     "eyes": "Skies",
     "hair": "Socialist black",
     "mouth": "Hip",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "overlay": "MAKE IT RAIN"
   },
   "1084": {
@@ -10426,7 +10426,7 @@
     "eyes": "Yellow",
     "hair": "Degen",
     "mouth": "Clong",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "overlay": "WTF is decentralization"
   },
   "1112": {
@@ -10574,13 +10574,13 @@
     "eyes": "Yellow",
     "hair": "Socialist black",
     "mouth": "Woaaah",
-    "costume": "Rabbibi"
+    "hats": "Rabbibi"
   },
   "1128": {
     "backgrounds": "Remilia world order",
     "body": "Tattoo gamer",
     "eyes": "Grey",
-    "costume": "Megamafia green",
+    "clothes": "Megamafia green",
     "accessories": "Vape"
   },
   "1129": {
@@ -10713,7 +10713,7 @@
     "eyes": "Green",
     "hair": "Socialist black",
     "mouth": "Clong",
-    "costume": "Rabbibi"
+    "hats": "Rabbibi"
   },
   "1142": {
     "backgrounds": "Uwu",
@@ -10752,7 +10752,7 @@
     "eyes": "Wen moon",
     "hair": "Socialist black",
     "mouth": "Bling",
-    "costume": "Rabbibi"
+    "hats": "Rabbibi"
   },
   "1146": {
     "backgrounds": "Rabbit cat",
@@ -10771,7 +10771,7 @@
     "eyes": "Blue",
     "hair": "Socialist black",
     "mouth": "Woaaah",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "accessories": "Megaeth token"
   },
   "1148": {
@@ -11010,7 +11010,7 @@
     "backgrounds": "Omega",
     "body": "White",
     "eyes": "Brown",
-    "costume": "Megamafia pink",
+    "clothes": "Megamafia pink",
     "accessories": "Mug"
   },
   "1174": {
@@ -11132,7 +11132,7 @@
     "eyes": "Swirl",
     "hair": "Scruffy black",
     "mouth": "Uh",
-    "costume": "Rabbibi"
+    "hats": "Rabbibi"
   },
   "1186": {
     "backgrounds": "Uwu",
@@ -11206,7 +11206,7 @@
     "eyes": "Red",
     "hair": "Socialist black",
     "mouth": "Huh",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "overlay": "Measure then build"
   },
   "1194": {
@@ -11294,7 +11294,7 @@
     "eyes": "Blue",
     "hair": "Socialist black",
     "mouth": "Mmh",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "overlay": "Measure then build"
   },
   "1203": {
@@ -11417,7 +11417,7 @@
     "eyes": "Blue",
     "hair": "Degen",
     "mouth": "Clong",
-    "costume": "Rabbibi"
+    "hats": "Rabbibi"
   },
   "1216": {
     "backgrounds": "Minutes round",
@@ -11544,7 +11544,7 @@
     "eyes": "Grey",
     "hair": "Scruffy black",
     "mouth": "Grrr",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "overlay": "I MUST BE TRIPPIN"
   },
   "1230": {
@@ -11769,7 +11769,7 @@
     "backgrounds": "Here we go again",
     "body": "Tan",
     "eyes": "Brown",
-    "costume": "Megamafia green"
+    "clothes": "Megamafia green"
   },
   "1254": {
     "backgrounds": "Bathroom",
@@ -11873,7 +11873,7 @@
     "backgrounds": "Legend",
     "body": "Brown",
     "eyes": "Blue",
-    "costume": "MegaMafia",
+    "clothes": "MegaMafia",
     "accessories": "Katana"
   },
   "1265": {
@@ -12007,7 +12007,7 @@
     "eyes": "Brown",
     "hair": "Degen",
     "mouth": "Haha",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "accessories": "Green candle"
   },
   "1279": {
@@ -12074,7 +12074,7 @@
     "eyes": "Brown",
     "hair": "Degen",
     "mouth": "Woaaah",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "overlay": "Measure then build"
   },
   "1286": {
@@ -12481,7 +12481,7 @@
     "backgrounds": "Rainmakr city",
     "body": "Tattoo megaeth",
     "eyes": "Brown",
-    "costume": "Megamafia pink"
+    "clothes": "Megamafia pink"
   },
   "1329": {
     "backgrounds": "Mkultra",
@@ -12554,7 +12554,7 @@
     "eyes": "Blue",
     "hair": "Scruffy black",
     "mouth": "Bling",
-    "costume": "Rabbibi"
+    "hats": "Rabbibi"
   },
   "1337": {
     "backgrounds": "Uwu",
@@ -12563,7 +12563,7 @@
     "eyes": "Brown",
     "hair": "Degen",
     "mouth": "Huh",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "overlay": "Megaeth and Megadeth"
   },
   "1338": {
@@ -12573,7 +12573,7 @@
     "eyes": "Crimson",
     "hair": "Scruffy black",
     "mouth": "Uh",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "accessories": "Musk knows"
   },
   "1339": {
@@ -12591,7 +12591,7 @@
     "backgrounds": "Backrooms",
     "body": "White",
     "eyes": "Love",
-    "costume": "Megamafia green"
+    "clothes": "Megamafia green"
   },
   "1341": {
     "backgrounds": "Mega rooftop",
@@ -12772,7 +12772,7 @@
     "eyes": "Grey",
     "hair": "Degen",
     "mouth": "Grrr",
-    "costume": "Rabbibi"
+    "hats": "Rabbibi"
   },
   "1360": {
     "backgrounds": "4chan",
@@ -12856,7 +12856,7 @@
     "eyes": "Green",
     "hair": "Degen",
     "mouth": "Mmh",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "overlay": "Pivot to Megaeth"
   },
   "1369": {
@@ -13041,7 +13041,7 @@
     "eyes": "Green",
     "hair": "Scruffy black",
     "mouth": "Huh",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "overlay": "We solved the infrastructure layer"
   },
   "1389": {
@@ -13248,7 +13248,7 @@
     "eyes": "Rain",
     "hair": "Scruffy black",
     "mouth": "Mmh",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "overlay": "Pivot to Megaeth"
   },
   "1411": {
@@ -13418,7 +13418,7 @@
     "eyes": "Also swirl",
     "hair": "Degen",
     "mouth": "Woaaah",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "overlay": "Win so hard"
   },
   "1428": {
@@ -13486,7 +13486,7 @@
     "eyes": "Fluffle green",
     "hair": "Socialist black",
     "mouth": "Woaaah",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "overlay": "MAKE IT RAIN"
   },
   "1435": {
@@ -13554,7 +13554,7 @@
     "eyes": "Rain",
     "hair": "Socialist black",
     "mouth": "Woaaah",
-    "costume": "Rabbibi"
+    "hats": "Rabbibi"
   },
   "1442": {
     "backgrounds": "Rainmakr city",
@@ -13592,7 +13592,7 @@
     "eyes": "Space",
     "hair": "Scruffy black",
     "mouth": "Haha",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "overlay": "Sparkles"
   },
   "1446": {
@@ -13648,7 +13648,7 @@
     "eyes": "Error",
     "hair": "Scruffy black",
     "mouth": "Bling",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "accessories": "Sword"
   },
   "1452": {
@@ -13704,7 +13704,7 @@
     "eyes": "Also swirl",
     "hair": "Scruffy black",
     "mouth": "Hehe",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "accessories": "Book"
   },
   "1458": {
@@ -13776,7 +13776,7 @@
     "eyes": "Rain",
     "hair": "Degen",
     "mouth": "Bling",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "accessories": "Red saber"
   },
   "1465": {
@@ -13786,7 +13786,7 @@
     "eyes": "Grey",
     "hair": "Socialist black",
     "mouth": "Huh",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "accessories": "Mug"
   },
   "1466": {
@@ -14055,7 +14055,7 @@
     "backgrounds": "Night street",
     "body": "White",
     "eyes": "Cyberred",
-    "costume": "MegaMafia"
+    "clothes": "MegaMafia"
   },
   "1494": {
     "backgrounds": "I play here",
@@ -14090,7 +14090,7 @@
     "backgrounds": "Megabul",
     "body": "White",
     "eyes": "Crimson",
-    "costume": "Megamafia pink"
+    "clothes": "Megamafia pink"
   },
   "1498": {
     "backgrounds": "Watergate spy",
@@ -14169,7 +14169,7 @@
     "eyes": "Fluffle pink",
     "hair": "Degen",
     "mouth": "Bling",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "accessories": "Diamond hands"
   },
   "1507": {
@@ -14333,7 +14333,7 @@
     "eyes": "Cyberred",
     "hair": "Socialist black",
     "mouth": "Clong",
-    "costume": "Rabbibi"
+    "hats": "Rabbibi"
   },
   "1525": {
     "backgrounds": "Mega uptime",
@@ -14342,7 +14342,7 @@
     "eyes": "Rain",
     "hair": "Socialist black",
     "mouth": "Clong",
-    "costume": "Rabbibi"
+    "hats": "Rabbibi"
   },
   "1526": {
     "backgrounds": "Tariffs",
@@ -14467,7 +14467,7 @@
     "backgrounds": "Bathroom",
     "body": "Pale",
     "eyes": "Green",
-    "costume": "Megamafia pink",
+    "clothes": "Megamafia pink",
     "accessories": "Book"
   },
   "1540": {
@@ -14717,7 +14717,7 @@
     "eyes": "Grey",
     "hair": "Scruffy black",
     "mouth": "Bling",
-    "costume": "Rabbibi"
+    "hats": "Rabbibi"
   },
   "1566": {
     "backgrounds": "Mega article",
@@ -14732,7 +14732,7 @@
     "backgrounds": "Fafel jet",
     "body": "Tattoo eth",
     "eyes": "Grey",
-    "costume": "MegaMafia",
+    "clothes": "MegaMafia",
     "accessories": "Katana"
   },
   "1568": {
@@ -14742,7 +14742,7 @@
     "eyes": "Blue",
     "hair": "Scruffy black",
     "mouth": "Huff",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "accessories": "Book"
   },
   "1569": {
@@ -15106,7 +15106,7 @@
     "eyes": "Pretty",
     "hair": "Scruffy black",
     "mouth": "Hip",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "overlay": "MAKE IT RAIN"
   },
   "1607": {
@@ -15131,7 +15131,7 @@
     "backgrounds": "Code",
     "body": "White",
     "eyes": "Crimson",
-    "costume": "MegaMafia"
+    "clothes": "MegaMafia"
   },
   "1610": {
     "backgrounds": "Desert",
@@ -15212,7 +15212,7 @@
     "backgrounds": "We can see you",
     "body": "Tattoo gamer",
     "eyes": "Red",
-    "costume": "MegaMafia"
+    "clothes": "MegaMafia"
   },
   "1619": {
     "backgrounds": "Legend",
@@ -15302,7 +15302,7 @@
     "backgrounds": "Masonic lodge",
     "body": "Tan",
     "eyes": "Candy",
-    "costume": "MegaMafia",
+    "clothes": "MegaMafia",
     "accessories": "Money"
   },
   "1629": {
@@ -15364,7 +15364,7 @@
     "eyes": "Rain",
     "hair": "Socialist black",
     "mouth": "Woaaah",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "accessories": "Sword"
   },
   "1635": {
@@ -15374,7 +15374,7 @@
     "eyes": "Space",
     "hair": "Scruffy black",
     "mouth": "Mmh",
-    "costume": "Rabbibi"
+    "hats": "Rabbibi"
   },
   "1636": {
     "backgrounds": "Mega forge",
@@ -15443,7 +15443,7 @@
     "backgrounds": "Rainmakr city",
     "body": "Tattoo eth",
     "eyes": "Crimson",
-    "costume": "MegaMafia",
+    "clothes": "MegaMafia",
     "accessories": "Money"
   },
   "1644": {
@@ -15593,7 +15593,7 @@
     "eyes": "Rain",
     "hair": "Scruffy black",
     "mouth": "Hehe",
-    "costume": "Rabbibi"
+    "hats": "Rabbibi"
   },
   "1660": {
     "backgrounds": "Mega wings",
@@ -15704,7 +15704,7 @@
     "backgrounds": "Megabul",
     "body": "Pale",
     "eyes": "Wen moon",
-    "costume": "MegaMafia"
+    "clothes": "MegaMafia"
   },
   "1672": {
     "backgrounds": "Mega rabbit",
@@ -15769,7 +15769,7 @@
     "backgrounds": "FTX is solvent",
     "body": "White",
     "eyes": "Space",
-    "costume": "MegaMafia"
+    "clothes": "MegaMafia"
   },
   "1679": {
     "backgrounds": "Uwu",
@@ -15825,7 +15825,7 @@
     "eyes": "Red",
     "hair": "Scruffy black",
     "mouth": "Hehe",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "accessories": "Money"
   },
   "1685": {
@@ -15855,7 +15855,7 @@
     "eyes": "Cybergreen",
     "hair": "Scruffy black",
     "mouth": "Woaaah",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "accessories": "Ethcc ticket"
   },
   "1688": {
@@ -15970,7 +15970,7 @@
     "backgrounds": "Bathroom",
     "body": "Brown",
     "eyes": "Blue",
-    "costume": "Megamafia green",
+    "clothes": "Megamafia green",
     "accessories": "Megaeth token"
   },
   "1700": {
@@ -16027,7 +16027,7 @@
     "backgrounds": "No gas limit",
     "body": "Beige",
     "eyes": "Crimson",
-    "costume": "Megamafia green",
+    "clothes": "Megamafia green",
     "accessories": "Ethcc ticket"
   },
   "1706": {
@@ -16099,7 +16099,7 @@
     "eyes": "Fluffle green",
     "hair": "Socialist black",
     "mouth": "Woaaah",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "overlay": "Pivot to Megaeth"
   },
   "1714": {
@@ -16166,13 +16166,13 @@
     "eyes": "Brown",
     "hair": "Socialist black",
     "mouth": "Grrr",
-    "costume": "Rabbibi"
+    "hats": "Rabbibi"
   },
   "1721": {
     "backgrounds": "Hello world",
     "body": "White",
     "eyes": "Crimson",
-    "costume": "Megamafia pink"
+    "clothes": "Megamafia pink"
   },
   "1722": {
     "backgrounds": "Brennan",
@@ -16268,7 +16268,7 @@
     "eyes": "Blue",
     "hair": "Scruffy black",
     "mouth": "Haha",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "accessories": "Green candle"
   },
   "1732": {
@@ -16365,7 +16365,7 @@
     "backgrounds": "Omega",
     "body": "White",
     "eyes": "Swirl",
-    "costume": "Megamafia pink"
+    "clothes": "Megamafia pink"
   },
   "1742": {
     "backgrounds": "Hill",
@@ -16568,14 +16568,14 @@
     "eyes": "Brown",
     "hair": "Scruffy black",
     "mouth": "Huff",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "overlay": "We solved the infrastructure layer"
   },
   "1764": {
     "backgrounds": "100k TPS",
     "body": "Megaethed",
     "eyes": "Red",
-    "costume": "Megamafia green"
+    "clothes": "Megamafia green"
   },
   "1765": {
     "backgrounds": "Mega rooftop",
@@ -16604,7 +16604,7 @@
     "eyes": "Grey",
     "hair": "Scruffy black",
     "mouth": "Huff",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "overlay": "Best i can do"
   },
   "1768": {
@@ -16690,7 +16690,7 @@
     "eyes": "Green",
     "hair": "Scruffy black",
     "mouth": "Hehe",
-    "costume": "Rabbibi"
+    "hats": "Rabbibi"
   },
   "1777": {
     "backgrounds": "Cuck chair",
@@ -16715,7 +16715,7 @@
     "backgrounds": "Hollywood basement",
     "body": "Tattoo megaeth",
     "eyes": "Grey",
-    "costume": "Megamafia green"
+    "clothes": "Megamafia green"
   },
   "1780": {
     "backgrounds": "Backrooms",
@@ -17020,7 +17020,7 @@
     "eyes": "Green",
     "hair": "Degen",
     "mouth": "Haha",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "accessories": "Boxing"
   },
   "1812": {
@@ -17038,14 +17038,14 @@
     "eyes": "Grey",
     "hair": "Socialist black",
     "mouth": "Grrr",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "overlay": "BINANCEISOFFTHECHAINGTE"
   },
   "1814": {
     "backgrounds": "Omega",
     "body": "Megaethed",
     "eyes": "Green",
-    "costume": "Megamafia pink",
+    "clothes": "Megamafia pink",
     "accessories": "Golf"
   },
   "1815": {
@@ -17152,7 +17152,7 @@
     "eyes": "Fluffle pink",
     "hair": "Socialist black",
     "mouth": "Clong",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "overlay": "Sparkles"
   },
   "1826": {
@@ -17203,7 +17203,7 @@
     "eyes": "Red",
     "hair": "Socialist black",
     "mouth": "Grrr",
-    "costume": "Rabbibi"
+    "hats": "Rabbibi"
   },
   "1831": {
     "backgrounds": "Bread setup",
@@ -17422,7 +17422,7 @@
     "eyes": "Blue",
     "hair": "Socialist black",
     "mouth": "Uh",
-    "costume": "Rabbibi"
+    "hats": "Rabbibi"
   },
   "1854": {
     "backgrounds": "Rabbit cat",
@@ -17495,7 +17495,7 @@
     "eyes": "Fluffle pink",
     "hair": "Scruffy black",
     "mouth": "Huh",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "overlay": "I MUST BE TRIPPIN"
   },
   "1862": {
@@ -17551,7 +17551,7 @@
     "eyes": "Rain",
     "hair": "Degen",
     "mouth": "Bling",
-    "costume": "Rabbibi"
+    "hats": "Rabbibi"
   },
   "1868": {
     "backgrounds": "Megabul",
@@ -17724,7 +17724,7 @@
     "eyes": "Brown",
     "hair": "Degen",
     "mouth": "Grrr",
-    "costume": "Rabbibi"
+    "hats": "Rabbibi"
   },
   "1887": {
     "backgrounds": "Sphere",
@@ -17733,7 +17733,7 @@
     "eyes": "Skies",
     "hair": "Degen",
     "mouth": "Clong",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "accessories": "Money"
   },
   "1888": {
@@ -17808,7 +17808,7 @@
     "eyes": "Crimson",
     "hair": "Scruffy black",
     "mouth": "Huh",
-    "costume": "Rabbibi"
+    "hats": "Rabbibi"
   },
   "1896": {
     "backgrounds": "Rainmakr city",
@@ -18006,7 +18006,7 @@
     "backgrounds": "Mkultra",
     "body": "Brown",
     "eyes": "Rain",
-    "costume": "Megamafia pink",
+    "clothes": "Megamafia pink",
     "accessories": "Megaeth token"
   },
   "1917": {
@@ -18140,7 +18140,7 @@
     "eyes": "Fluffle pink",
     "hair": "Scruffy black",
     "mouth": "Mmh",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "accessories": "Sword"
   },
   "1931": {
@@ -18207,7 +18207,7 @@
     "backgrounds": "Megamafia",
     "body": "Tattoo chart",
     "eyes": "Fluffle green",
-    "costume": "Megamafia pink"
+    "clothes": "Megamafia pink"
   },
   "1938": {
     "backgrounds": "Brennan",
@@ -18234,7 +18234,7 @@
     "eyes": "Pretty",
     "hair": "Socialist black",
     "mouth": "Clong",
-    "costume": "Rabbibi"
+    "hats": "Rabbibi"
   },
   "1941": {
     "backgrounds": "Actual trenches",
@@ -18309,7 +18309,7 @@
     "eyes": "Fluffle pink",
     "hair": "Scruffy black",
     "mouth": "Grrr",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "overlay": "I MUST BE TRIPPIN"
   },
   "1949": {
@@ -18418,7 +18418,7 @@
     "backgrounds": "Mega article",
     "body": "Zombie",
     "eyes": "Wen moon",
-    "costume": "MegaMafia",
+    "clothes": "MegaMafia",
     "accessories": "Green candle"
   },
   "1961": {
@@ -18480,7 +18480,7 @@
     "eyes": "Cyberred",
     "hair": "Scruffy black",
     "mouth": "Huff",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "accessories": "Mug"
   },
   "1967": {
@@ -18545,13 +18545,13 @@
     "backgrounds": "Gmegalio",
     "body": "Tattoo megaeth",
     "eyes": "Cybergreen",
-    "costume": "MegaMafia"
+    "clothes": "MegaMafia"
   },
   "1974": {
     "backgrounds": "Winamp",
     "body": "Brown",
     "eyes": "Cyberred",
-    "costume": "Megamafia green"
+    "clothes": "Megamafia green"
   },
   "1975": {
     "backgrounds": "Mega uptime",
@@ -18745,7 +18745,7 @@
     "backgrounds": "Uwu",
     "body": "Pale",
     "eyes": "Yellow",
-    "costume": "MegaMafia"
+    "clothes": "MegaMafia"
   },
   "1996": {
     "backgrounds": "Megamafia",
@@ -18810,7 +18810,7 @@
     "backgrounds": "ETHBTC",
     "body": "Tattoo chart",
     "eyes": "Pretty",
-    "costume": "Megamafia pink",
+    "clothes": "Megamafia pink",
     "accessories": "Red saber"
   },
   "2003": {
@@ -18936,7 +18936,7 @@
     "eyes": "Cybergreen",
     "hair": "Scruffy black",
     "mouth": "Haha",
-    "costume": "Rabbibi"
+    "hats": "Rabbibi"
   },
   "2016": {
     "backgrounds": "Big cold ass wall",
@@ -19175,7 +19175,7 @@
     "eyes": "Candy",
     "hair": "Degen",
     "mouth": "Bling",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "accessories": "Money"
   },
   "2041": {
@@ -19262,7 +19262,7 @@
     "eyes": "Grey",
     "hair": "Scruffy black",
     "mouth": "Mmh",
-    "costume": "Rabbibi"
+    "hats": "Rabbibi"
   },
   "2050": {
     "backgrounds": "Our profits",
@@ -19289,7 +19289,7 @@
     "eyes": "Pretty",
     "hair": "Scruffy black",
     "mouth": "Haha",
-    "costume": "Rabbibi"
+    "hats": "Rabbibi"
   },
   "2053": {
     "backgrounds": "Mega wings",
@@ -19525,7 +19525,7 @@
     "eyes": "Frost",
     "hair": "Scruffy black",
     "mouth": "Grrr",
-    "costume": "Rabbibi"
+    "hats": "Rabbibi"
   },
   "2078": {
     "backgrounds": "Winamp",
@@ -19552,7 +19552,7 @@
     "eyes": "Blue",
     "hair": "Degen",
     "mouth": "Huff",
-    "costume": "Rabbibi"
+    "hats": "Rabbibi"
   },
   "2081": {
     "backgrounds": "Mega forge",
@@ -20074,7 +20074,7 @@
     "eyes": "Yellow",
     "hair": "Socialist black",
     "mouth": "Bling",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "accessories": "Green candle"
   },
   "2135": {
@@ -20084,7 +20084,7 @@
     "eyes": "Grey",
     "hair": "Scruffy black",
     "mouth": "Hehe",
-    "costume": "Rabbibi"
+    "hats": "Rabbibi"
   },
   "2136": {
     "backgrounds": "Rainmakr city",
@@ -20101,7 +20101,7 @@
     "eyes": "Green",
     "hair": "Degen",
     "mouth": "Huff",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "overlay": "I MUST BE TRIPPIN"
   },
   "2138": {
@@ -20138,7 +20138,7 @@
     "eyes": "Green",
     "hair": "Degen",
     "mouth": "Uh",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "accessories": "Megaeth token"
   },
   "2142": {
@@ -20148,7 +20148,7 @@
     "eyes": "Fluffle pink",
     "hair": "Degen",
     "mouth": "Huh",
-    "costume": "Rabbibi"
+    "hats": "Rabbibi"
   },
   "2143": {
     "backgrounds": "NGMI",
@@ -20157,7 +20157,7 @@
     "eyes": "Blue",
     "hair": "Scruffy black",
     "mouth": "Clong",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "overlay": "BINANCEISOFFTHECHAINGTE"
   },
   "2144": {
@@ -20335,7 +20335,7 @@
     "eyes": "Grey",
     "hair": "Degen",
     "mouth": "Hip",
-    "costume": "Rabbibi"
+    "hats": "Rabbibi"
   },
   "2163": {
     "backgrounds": "Night street",
@@ -20344,7 +20344,7 @@
     "eyes": "Brown",
     "hair": "Socialist black",
     "mouth": "Hehe",
-    "costume": "Rabbibi"
+    "hats": "Rabbibi"
   },
   "2164": {
     "backgrounds": "Omega",
@@ -20371,7 +20371,7 @@
     "eyes": "Yellow",
     "hair": "Socialist black",
     "mouth": "Haha",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "accessories": "Golf"
   },
   "2167": {
@@ -20544,7 +20544,7 @@
     "backgrounds": "Pyramids",
     "body": "Beige",
     "eyes": "Fluffle pink",
-    "costume": "Megamafia pink"
+    "clothes": "Megamafia pink"
   },
   "2185": {
     "backgrounds": "Rainmakr city",
@@ -20564,7 +20564,7 @@
     "eyes": "Swirl",
     "hair": "Degen",
     "mouth": "Bling",
-    "costume": "Rabbibi"
+    "hats": "Rabbibi"
   },
   "2187": {
     "backgrounds": "Mojo dojo",
@@ -20668,7 +20668,7 @@
     "eyes": "Blue",
     "hair": "Socialist black",
     "mouth": "Huff",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "accessories": "Golf"
   },
   "2198": {
@@ -20689,7 +20689,7 @@
     "eyes": "Green",
     "hair": "Socialist black",
     "mouth": "Haha",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "accessories": "Musk knows"
   },
   "2200": {
@@ -20699,7 +20699,7 @@
     "eyes": "Wen moon",
     "hair": "Degen",
     "mouth": "Haha",
-    "costume": "Rabbibi"
+    "hats": "Rabbibi"
   },
   "2201": {
     "backgrounds": "Bread setup",
@@ -20718,7 +20718,7 @@
     "eyes": "Rain",
     "hair": "Socialist black",
     "mouth": "Bling",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "overlay": "Sparkles"
   },
   "2203": {
@@ -20903,7 +20903,7 @@
     "eyes": "Fluffle green",
     "hair": "Socialist black",
     "mouth": "Mmh",
-    "costume": "Rabbibi"
+    "hats": "Rabbibi"
   },
   "2222": {
     "backgrounds": "Backrooms",
@@ -21072,7 +21072,7 @@
     "eyes": "Grey",
     "hair": "Degen",
     "mouth": "Huff",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "accessories": "Book"
   },
   "2240": {
@@ -21169,7 +21169,7 @@
     "eyes": "Yellow",
     "hair": "Socialist black",
     "mouth": "Mmh",
-    "costume": "Rabbibi"
+    "hats": "Rabbibi"
   },
   "2250": {
     "backgrounds": "World pepe size",
@@ -21337,7 +21337,7 @@
     "eyes": "Cyberred",
     "hair": "Degen",
     "mouth": "Clong",
-    "costume": "Rabbibi"
+    "hats": "Rabbibi"
   },
   "2267": {
     "backgrounds": "Brennan",
@@ -21631,7 +21631,7 @@
     "eyes": "Rain",
     "hair": "Degen",
     "mouth": "Mmh",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "overlay": "MY MOM SAID"
   },
   "2298": {
@@ -21679,7 +21679,7 @@
     "eyes": "Grey",
     "hair": "Degen",
     "mouth": "Haha",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "overlay": "I MUST BE TRIPPIN"
   },
   "2303": {
@@ -21689,7 +21689,7 @@
     "eyes": "Blue",
     "hair": "Degen",
     "mouth": "Hehe",
-    "costume": "Rabbibi"
+    "hats": "Rabbibi"
   },
   "2304": {
     "backgrounds": "ETHBTC",
@@ -21698,7 +21698,7 @@
     "eyes": "Yellow",
     "hair": "Degen",
     "mouth": "Grrr",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "accessories": "Green saber"
   },
   "2305": {
@@ -21778,7 +21778,7 @@
     "eyes": "Green",
     "hair": "Socialist black",
     "mouth": "Grrr",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "overlay": "WTF is decentralization"
   },
   "2313": {
@@ -21797,7 +21797,7 @@
     "eyes": "Grey",
     "hair": "Socialist black",
     "mouth": "Clong",
-    "costume": "Rabbibi"
+    "hats": "Rabbibi"
   },
   "2315": {
     "backgrounds": "Hello world",
@@ -21816,7 +21816,7 @@
     "eyes": "Pretty",
     "hair": "Socialist black",
     "mouth": "Huh",
-    "costume": "Rabbibi"
+    "hats": "Rabbibi"
   },
   "2317": {
     "backgrounds": "Fafel jet",
@@ -21976,7 +21976,7 @@
     "backgrounds": "100k TPS",
     "body": "Tattoo gamer",
     "eyes": "Green",
-    "costume": "Megamafia green",
+    "clothes": "Megamafia green",
     "accessories": "Book"
   },
   "2334": {
@@ -22416,7 +22416,7 @@
     "eyes": "Grey",
     "hair": "Socialist black",
     "mouth": "Grrr",
-    "costume": "Rabbibi"
+    "hats": "Rabbibi"
   },
   "2380": {
     "backgrounds": "Fafel jet",
@@ -22571,7 +22571,7 @@
     "eyes": "Cybergreen",
     "hair": "Socialist black",
     "mouth": "Clong",
-    "costume": "Rabbibi"
+    "hats": "Rabbibi"
   },
   "2397": {
     "backgrounds": "Rust in prod",
@@ -22606,7 +22606,7 @@
     "backgrounds": "Only on mega",
     "body": "Tattoo gamer",
     "eyes": "Candy",
-    "costume": "Megamafia pink"
+    "clothes": "Megamafia pink"
   },
   "2401": {
     "backgrounds": "Bread setup",
@@ -22682,7 +22682,7 @@
     "eyes": "Brown",
     "hair": "Scruffy black",
     "mouth": "Clong",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "accessories": "Katana"
   },
   "2409": {
@@ -22709,7 +22709,7 @@
     "backgrounds": "Megabul",
     "body": "Tattoo chart",
     "eyes": "Brown",
-    "costume": "Megamafia green",
+    "clothes": "Megamafia green",
     "accessories": "Megaeth token"
   },
   "2412": {
@@ -22784,7 +22784,7 @@
     "eyes": "Crimson",
     "hair": "Degen",
     "mouth": "Hip",
-    "costume": "Rabbibi"
+    "hats": "Rabbibi"
   },
   "2420": {
     "backgrounds": "Second best",
@@ -22840,7 +22840,7 @@
     "eyes": "Reptilian",
     "hair": "Socialist black",
     "mouth": "Huh",
-    "costume": "Rabbibi"
+    "hats": "Rabbibi"
   },
   "2426": {
     "backgrounds": "Disected",
@@ -23133,7 +23133,7 @@
     "eyes": "Yellow",
     "hair": "Socialist black",
     "mouth": "Clong",
-    "costume": "Rabbibi"
+    "hats": "Rabbibi"
   },
   "2456": {
     "backgrounds": "No gas limit",
@@ -23385,7 +23385,7 @@
     "backgrounds": "Vengeance",
     "body": "White",
     "eyes": "Pretty",
-    "costume": "Megamafia green"
+    "clothes": "Megamafia green"
   },
   "2482": {
     "backgrounds": "Mega article",
@@ -23537,7 +23537,7 @@
     "backgrounds": "100k TPS",
     "body": "Tattoo gamer",
     "eyes": "Brown",
-    "costume": "MegaMafia"
+    "clothes": "MegaMafia"
   },
   "2497": {
     "backgrounds": "Hollywood basement",
@@ -23562,7 +23562,7 @@
     "backgrounds": "Rainmakr city",
     "body": "Pale",
     "eyes": "The end",
-    "costume": "MegaMafia",
+    "clothes": "MegaMafia",
     "necklace": "MWO"
   },
   "2500": {
@@ -23630,7 +23630,7 @@
     "eyes": "Yellow",
     "hair": "Socialist black",
     "mouth": "Hip",
-    "costume": "Rabbibi"
+    "hats": "Rabbibi"
   },
   "2507": {
     "backgrounds": "Rainmakr city",
@@ -23674,7 +23674,7 @@
     "backgrounds": "We can see you",
     "body": "Gold",
     "eyes": "Yellow",
-    "costume": "Megamafia green"
+    "clothes": "Megamafia green"
   },
   "2512": {
     "backgrounds": "Disected",
@@ -24000,7 +24000,7 @@
     "backgrounds": "Desert",
     "body": "Brown",
     "eyes": "Yellow",
-    "costume": "Megamafia green",
+    "clothes": "Megamafia green",
     "accessories": "Green saber"
   },
   "2547": {
@@ -24010,7 +24010,7 @@
     "eyes": "Grey",
     "hair": "Scruffy black",
     "mouth": "Clong",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "overlay": "Measure then build"
   },
   "2548": {
@@ -24098,7 +24098,7 @@
     "eyes": "Red",
     "hair": "Socialist black",
     "mouth": "Mmh",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "accessories": "Book"
   },
   "2557": {
@@ -24222,7 +24222,7 @@
     "backgrounds": "Bathroom",
     "body": "Pale",
     "eyes": "Fluffle green",
-    "costume": "Megamafia pink",
+    "clothes": "Megamafia pink",
     "accessories": "Book"
   },
   "2570": {
@@ -24305,7 +24305,7 @@
     "eyes": "Grey",
     "hair": "Socialist black",
     "mouth": "Mmh",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "overlay": "We solved the infrastructure layer"
   },
   "2579": {
@@ -24370,7 +24370,7 @@
     "eyes": "Green",
     "hair": "Degen",
     "mouth": "Grrr",
-    "costume": "Rabbibi"
+    "hats": "Rabbibi"
   },
   "2586": {
     "backgrounds": "Psychedelic",
@@ -24395,7 +24395,7 @@
     "backgrounds": "Sphere",
     "body": "Tattoo gamer",
     "eyes": "Grey",
-    "costume": "Megamafia green"
+    "clothes": "Megamafia green"
   },
   "2589": {
     "backgrounds": "Bread setup",
@@ -24414,13 +24414,13 @@
     "eyes": "Fluffle green",
     "hair": "Socialist black",
     "mouth": "Hip",
-    "costume": "Rabbibi"
+    "hats": "Rabbibi"
   },
   "2591": {
     "backgrounds": "World pepe size",
     "body": "Gold",
     "eyes": "Green",
-    "costume": "MegaMafia"
+    "clothes": "MegaMafia"
   },
   "2592": {
     "backgrounds": "Megamafia",
@@ -24458,7 +24458,7 @@
     "eyes": "Red",
     "hair": "Socialist black",
     "mouth": "Hip",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "overlay": "MAKE IT RAIN"
   },
   "2596": {
@@ -24524,7 +24524,7 @@
     "eyes": "Blue",
     "hair": "Scruffy black",
     "mouth": "Hehe",
-    "costume": "Rabbibi"
+    "hats": "Rabbibi"
   },
   "2603": {
     "backgrounds": "Night street",
@@ -24721,7 +24721,7 @@
     "eyes": "Red",
     "hair": "Degen",
     "mouth": "Hip",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "accessories": "Vape"
   },
   "2624": {
@@ -24761,7 +24761,7 @@
     "eyes": "Crimson",
     "hair": "Socialist black",
     "mouth": "Huff",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "overlay": "MEGALIO WORLD ORDER BITCH"
   },
   "2628": {
@@ -24871,7 +24871,7 @@
     "backgrounds": "Mega rabbit",
     "body": "White",
     "eyes": "Also swirl",
-    "costume": "MegaMafia"
+    "clothes": "MegaMafia"
   },
   "2640": {
     "backgrounds": "World computer",
@@ -24931,7 +24931,7 @@
     "eyes": "Also swirl",
     "hair": "Degen",
     "mouth": "Huff",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "overlay": "The most unaligned aligned"
   },
   "2646": {
@@ -25036,7 +25036,7 @@
     "eyes": "Rain",
     "hair": "Socialist black",
     "mouth": "Haha",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "accessories": "Vape"
   },
   "2657": {
@@ -25148,7 +25148,7 @@
     "backgrounds": "Glitter factory",
     "body": "Brown",
     "eyes": "I cant see",
-    "costume": "Megamafia pink"
+    "clothes": "Megamafia pink"
   },
   "2669": {
     "backgrounds": "Code",
@@ -25157,7 +25157,7 @@
     "eyes": "Wen moon",
     "hair": "Scruffy black",
     "mouth": "Huff",
-    "costume": "Rabbibi"
+    "hats": "Rabbibi"
   },
   "2670": {
     "backgrounds": "Rust in prod",
@@ -25226,7 +25226,7 @@
     "eyes": "Rain",
     "hair": "Degen",
     "mouth": "Bling",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "accessories": "Megaeth token"
   },
   "2677": {
@@ -25479,7 +25479,7 @@
     "eyes": "Blue",
     "hair": "Degen",
     "mouth": "Hip",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "accessories": "Boxing"
   },
   "2704": {
@@ -25886,7 +25886,7 @@
     "eyes": "Green",
     "hair": "Degen",
     "mouth": "Uh",
-    "costume": "Rabbibi"
+    "hats": "Rabbibi"
   },
   "2747": {
     "backgrounds": "Disected",
@@ -25904,7 +25904,7 @@
     "eyes": "Blue",
     "hair": "Scruffy black",
     "mouth": "Huff",
-    "costume": "Rabbibi"
+    "hats": "Rabbibi"
   },
   "2749": {
     "backgrounds": "Psychedelic",
@@ -25950,7 +25950,7 @@
     "eyes": "Yellow",
     "hair": "Degen",
     "mouth": "Clong",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "overlay": "BINANCEISOFFTHECHAINGTE"
   },
   "2754": {
@@ -26148,7 +26148,7 @@
     "eyes": "Brown",
     "hair": "Scruffy black",
     "mouth": "Grrr",
-    "costume": "Rabbibi"
+    "hats": "Rabbibi"
   },
   "2775": {
     "backgrounds": "Illegal alien rabbit",
@@ -26163,7 +26163,7 @@
     "backgrounds": "ETHBTC",
     "body": "Beige",
     "eyes": "Also swirl",
-    "costume": "Megamafia pink",
+    "clothes": "Megamafia pink",
     "necklace": "MWO",
     "accessories": "Book"
   },
@@ -26253,7 +26253,7 @@
     "eyes": "Blue",
     "hair": "Socialist black",
     "mouth": "Bling",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "overlay": "MAKE IT RAIN"
   },
   "2786": {
@@ -26301,7 +26301,7 @@
     "eyes": "Space",
     "hair": "Socialist black",
     "mouth": "Huff",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "accessories": "Mug"
   },
   "2791": {
@@ -26437,7 +26437,7 @@
     "eyes": "Candy",
     "hair": "Socialist black",
     "mouth": "Haha",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "overlay": "WTF is decentralization"
   },
   "2805": {
@@ -26528,7 +26528,7 @@
     "eyes": "Yellow",
     "hair": "Socialist black",
     "mouth": "Grrr",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "accessories": "Book"
   },
   "2814": {
@@ -26737,7 +26737,7 @@
     "eyes": "Blue",
     "hair": "Degen",
     "mouth": "Huh",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "accessories": "Ethcc ticket"
   },
   "2836": {
@@ -26879,7 +26879,7 @@
     "eyes": "Green",
     "hair": "Socialist black",
     "mouth": "Mmh",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "overlay": "Sparkles"
   },
   "2850": {
@@ -26907,7 +26907,7 @@
     "backgrounds": "Big cold ass wall",
     "body": "Beige",
     "eyes": "Crimson",
-    "costume": "Megamafia pink",
+    "clothes": "Megamafia pink",
     "accessories": "Green candle"
   },
   "2853": {
@@ -26966,7 +26966,7 @@
     "eyes": "Grey",
     "hair": "Socialist black",
     "mouth": "Huh",
-    "costume": "Rabbibi"
+    "hats": "Rabbibi"
   },
   "2859": {
     "backgrounds": "Code",
@@ -27333,7 +27333,7 @@
     "eyes": "Yellow",
     "hair": "Scruffy black",
     "mouth": "Huff",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "overlay": "Pivot to Megaeth"
   },
   "2898": {
@@ -27518,7 +27518,7 @@
     "eyes": "Crimson",
     "hair": "Socialist black",
     "mouth": "Haha",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "accessories": "Sword"
   },
   "2918": {
@@ -27568,7 +27568,7 @@
     "eyes": "Fluffle green",
     "hair": "Socialist black",
     "mouth": "Clong",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "accessories": "Money"
   },
   "2923": {
@@ -27729,7 +27729,7 @@
     "eyes": "Fluffle green",
     "hair": "Scruffy black",
     "mouth": "Uh",
-    "costume": "Rabbibi"
+    "hats": "Rabbibi"
   },
   "2940": {
     "backgrounds": "Slow joe",
@@ -27854,7 +27854,7 @@
     "eyes": "Fluffle pink",
     "hair": "Socialist black",
     "mouth": "Huff",
-    "costume": "Rabbibi"
+    "hats": "Rabbibi"
   },
   "2953": {
     "backgrounds": "Fast corner",
@@ -28053,7 +28053,7 @@
     "eyes": "Yellow",
     "hair": "Socialist black",
     "mouth": "Haha",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "overlay": "Apps over chain"
   },
   "2975": {
@@ -28102,7 +28102,7 @@
     "eyes": "Frost",
     "hair": "Scruffy black",
     "mouth": "Mmh",
-    "costume": "Rabbibi"
+    "hats": "Rabbibi"
   },
   "2980": {
     "backgrounds": "Megamafia",
@@ -28164,7 +28164,7 @@
     "backgrounds": "Our profits",
     "body": "Pale",
     "eyes": "Brown",
-    "costume": "MegaMafia"
+    "clothes": "MegaMafia"
   },
   "2987": {
     "backgrounds": "Illegal alien rabbit",
@@ -28314,7 +28314,7 @@
     "eyes": "Frost",
     "hair": "Scruffy black",
     "mouth": "Haha",
-    "costume": "Rabbibi"
+    "hats": "Rabbibi"
   },
   "3003": {
     "backgrounds": "Hood",
@@ -28408,7 +28408,7 @@
     "eyes": "Green",
     "hair": "Socialist black",
     "mouth": "Mmh",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "accessories": "Megaeth token"
   },
   "3013": {
@@ -28550,7 +28550,7 @@
     "eyes": "Rain",
     "hair": "Scruffy black",
     "mouth": "Woaaah",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "accessories": "Boxing"
   },
   "3028": {
@@ -28653,7 +28653,7 @@
     "backgrounds": "Remilia world order",
     "body": "White",
     "eyes": "Red",
-    "costume": "Megamafia green"
+    "clothes": "Megamafia green"
   },
   "3039": {
     "backgrounds": "Mega wings",
@@ -28689,7 +28689,7 @@
     "eyes": "I cant see",
     "hair": "Degen",
     "mouth": "Mmh",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "accessories": "Red saber"
   },
   "3043": {
@@ -28714,7 +28714,7 @@
     "backgrounds": "Fast corner",
     "body": "Tattoo gamer",
     "eyes": "Also swirl",
-    "costume": "Megamafia pink",
+    "clothes": "Megamafia pink",
     "accessories": "Diamond hands"
   },
   "3046": {
@@ -28724,7 +28724,7 @@
     "eyes": "Brown",
     "hair": "Scruffy black",
     "mouth": "Hehe",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "accessories": "Lucille"
   },
   "3047": {
@@ -28754,7 +28754,7 @@
     "eyes": "Grey",
     "hair": "Socialist black",
     "mouth": "Hip",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "accessories": "Money"
   },
   "3050": {
@@ -28804,7 +28804,7 @@
     "eyes": "Red",
     "hair": "Degen",
     "mouth": "Bling",
-    "costume": "Rabbibi"
+    "hats": "Rabbibi"
   },
   "3055": {
     "backgrounds": "Not enough carrots",
@@ -28851,7 +28851,7 @@
     "eyes": "Rain",
     "hair": "Scruffy black",
     "mouth": "Huff",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "overlay": "Apps over chain"
   },
   "3060": {
@@ -29096,7 +29096,7 @@
     "eyes": "Skies",
     "hair": "Scruffy black",
     "mouth": "Huh",
-    "costume": "Rabbibi"
+    "hats": "Rabbibi"
   },
   "3085": {
     "backgrounds": "Baguette",
@@ -29114,7 +29114,7 @@
     "eyes": "Swirl",
     "hair": "Degen",
     "mouth": "Hehe",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "overlay": "MY MOM SAID"
   },
   "3087": {
@@ -29548,7 +29548,7 @@
     "eyes": "Fluffle pink",
     "hair": "Scruffy black",
     "mouth": "Haha",
-    "costume": "Rabbibi"
+    "hats": "Rabbibi"
   },
   "3132": {
     "backgrounds": "Love island",
@@ -29701,7 +29701,7 @@
     "eyes": "Candy",
     "hair": "Degen",
     "mouth": "Grrr",
-    "costume": "Rabbibi"
+    "hats": "Rabbibi"
   },
   "3148": {
     "backgrounds": "Tariffs",
@@ -29756,14 +29756,14 @@
     "eyes": "Brown",
     "hair": "Degen",
     "mouth": "Clong",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "overlay": "Best i can do"
   },
   "3154": {
     "backgrounds": "Here we go again",
     "body": "Zombie",
     "eyes": "Brown",
-    "costume": "Megamafia green"
+    "clothes": "Megamafia green"
   },
   "3155": {
     "backgrounds": "No gas limit",
@@ -29816,7 +29816,7 @@
     "eyes": "Green",
     "hair": "Scruffy black",
     "mouth": "Clong",
-    "costume": "Rabbibi"
+    "hats": "Rabbibi"
   },
   "3161": {
     "backgrounds": "Mega article",
@@ -29942,7 +29942,7 @@
     "eyes": "Blue",
     "hair": "Socialist black",
     "mouth": "Mmh",
-    "costume": "Rabbibi"
+    "hats": "Rabbibi"
   },
   "3174": {
     "backgrounds": "4chan",
@@ -29970,7 +29970,7 @@
     "eyes": "Candy",
     "hair": "Socialist black",
     "mouth": "Hehe",
-    "costume": "Rabbibi"
+    "hats": "Rabbibi"
   },
   "3177": {
     "backgrounds": "Vengeance",
@@ -30074,7 +30074,7 @@
     "backgrounds": "Fafel jet",
     "body": "Tattoo megaeth",
     "eyes": "Blue",
-    "costume": "Megamafia pink"
+    "clothes": "Megamafia pink"
   },
   "3188": {
     "backgrounds": "Pope",
@@ -30334,7 +30334,7 @@
     "backgrounds": "No gas limit",
     "body": "White",
     "eyes": "Fluffle green",
-    "costume": "Megamafia green"
+    "clothes": "Megamafia green"
   },
   "3216": {
     "backgrounds": "Gmegalio",
@@ -30392,7 +30392,7 @@
     "eyes": "Fluffle green",
     "hair": "Socialist black",
     "mouth": "Bling",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "accessories": "Money"
   },
   "3222": {
@@ -30423,7 +30423,7 @@
     "eyes": "Space",
     "hair": "Socialist black",
     "mouth": "Uh",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "overlay": "JUSTIN SUN IS NOT A SMALL MAN SYNDROME"
   },
   "3225": {
@@ -30455,7 +30455,7 @@
     "eyes": "Grey",
     "hair": "Scruffy black",
     "mouth": "Huh",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "accessories": "Mug"
   },
   "3228": {
@@ -30474,7 +30474,7 @@
     "eyes": "Yellow",
     "hair": "Degen",
     "mouth": "Huh",
-    "costume": "Rabbibi"
+    "hats": "Rabbibi"
   },
   "3230": {
     "backgrounds": "Desert",
@@ -30629,7 +30629,7 @@
     "eyes": "Blue",
     "hair": "Socialist black",
     "mouth": "Hehe",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "accessories": "Saints row"
   },
   "3246": {
@@ -30678,7 +30678,7 @@
     "eyes": "Reptilian",
     "hair": "Socialist black",
     "mouth": "Woaaah",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "overlay": "We solved the infrastructure layer"
   },
   "3251": {
@@ -30728,7 +30728,7 @@
     "eyes": "Grey",
     "hair": "Scruffy black",
     "mouth": "Bling",
-    "costume": "Rabbibi"
+    "hats": "Rabbibi"
   },
   "3256": {
     "backgrounds": "Hello world",
@@ -30753,7 +30753,7 @@
     "backgrounds": "ETHBTC",
     "body": "Tattoo eth",
     "eyes": "Also swirl",
-    "costume": "Megamafia green",
+    "clothes": "Megamafia green",
     "accessories": "Money"
   },
   "3259": {
@@ -30804,7 +30804,7 @@
     "eyes": "Reptilian",
     "hair": "Degen",
     "mouth": "Huh",
-    "costume": "Rabbibi"
+    "hats": "Rabbibi"
   },
   "3264": {
     "backgrounds": "Code",
@@ -30839,7 +30839,7 @@
     "eyes": "Green",
     "hair": "Socialist black",
     "mouth": "Clong",
-    "costume": "Rabbibi"
+    "hats": "Rabbibi"
   },
   "3268": {
     "backgrounds": "Code",
@@ -30983,7 +30983,7 @@
     "eyes": "Wen moon",
     "hair": "Socialist black",
     "mouth": "Bling",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "accessories": "Ethcc ticket"
   },
   "3283": {
@@ -31254,7 +31254,7 @@
     "eyes": "Grey",
     "hair": "Scruffy black",
     "mouth": "Mmh",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "accessories": "Book"
   },
   "3311": {
@@ -31322,7 +31322,7 @@
     "eyes": "Candy",
     "hair": "Degen",
     "mouth": "Uh",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "accessories": "Megaeth token"
   },
   "3318": {
@@ -31578,7 +31578,7 @@
     "backgrounds": "Hill",
     "body": "Pale",
     "eyes": "Pretty",
-    "costume": "Megamafia green",
+    "clothes": "Megamafia green",
     "accessories": "Megaeth token"
   },
   "3345": {
@@ -31624,7 +31624,7 @@
     "eyes": "Skies",
     "hair": "Degen",
     "mouth": "Clong",
-    "costume": "Rabbibi"
+    "hats": "Rabbibi"
   },
   "3350": {
     "backgrounds": "Mega uptime",
@@ -31742,7 +31742,7 @@
     "eyes": "Also swirl",
     "hair": "Degen",
     "mouth": "Huff",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "accessories": "Red saber"
   },
   "3362": {
@@ -32127,14 +32127,14 @@
     "backgrounds": "Disected",
     "body": "Pale",
     "eyes": "Blue",
-    "costume": "Megamafia green",
+    "clothes": "Megamafia green",
     "accessories": "Ethcc ticket"
   },
   "3403": {
     "backgrounds": "World pepe size",
     "body": "Tattoo eth",
     "eyes": "Pretty",
-    "costume": "Megamafia green",
+    "clothes": "Megamafia green",
     "accessories": "Katana"
   },
   "3404": {
@@ -32319,7 +32319,7 @@
     "backgrounds": "Fast corner",
     "body": "Beige",
     "eyes": "Grey",
-    "costume": "MegaMafia"
+    "clothes": "MegaMafia"
   },
   "3423": {
     "backgrounds": "Disected",
@@ -32398,7 +32398,7 @@
     "backgrounds": "Backrooms",
     "body": "Beige",
     "eyes": "Red",
-    "costume": "MegaMafia"
+    "clothes": "MegaMafia"
   },
   "3432": {
     "backgrounds": "True taxi",
@@ -32444,7 +32444,7 @@
     "eyes": "Brown",
     "hair": "Scruffy black",
     "mouth": "Grrr",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "accessories": "Sword"
   },
   "3437": {
@@ -32484,7 +32484,7 @@
     "eyes": "Blue",
     "hair": "Socialist black",
     "mouth": "Huh",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "accessories": "Megaeth token"
   },
   "3441": {
@@ -32546,13 +32546,13 @@
     "eyes": "Yellow",
     "hair": "Scruffy black",
     "mouth": "Huff",
-    "costume": "Rabbibi"
+    "hats": "Rabbibi"
   },
   "3447": {
     "backgrounds": "Fast corner",
     "body": "Beige",
     "eyes": "Cyberred",
-    "costume": "MegaMafia"
+    "clothes": "MegaMafia"
   },
   "3448": {
     "backgrounds": "Baguette",
@@ -32561,7 +32561,7 @@
     "eyes": "Red",
     "hair": "Degen",
     "mouth": "Hehe",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "accessories": "Ledger"
   },
   "3449": {
@@ -32640,7 +32640,7 @@
     "eyes": "Grey",
     "hair": "Socialist black",
     "mouth": "Hip",
-    "costume": "Rabbibi"
+    "hats": "Rabbibi"
   },
   "3457": {
     "backgrounds": "Rainmakr city",
@@ -32865,7 +32865,7 @@
     "eyes": "Yellow",
     "hair": "Socialist black",
     "mouth": "Huff",
-    "costume": "Rabbibi"
+    "hats": "Rabbibi"
   },
   "3481": {
     "backgrounds": "Our profits",
@@ -33087,7 +33087,7 @@
     "eyes": "Grey",
     "hair": "Scruffy black",
     "mouth": "Grrr",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "accessories": "Red saber"
   },
   "3504": {
@@ -33159,7 +33159,7 @@
     "backgrounds": "Big cold ass wall",
     "body": "Tattoo gamer",
     "eyes": "Rain",
-    "costume": "Megamafia green"
+    "clothes": "Megamafia green"
   },
   "3512": {
     "backgrounds": "Psychedelic",
@@ -33233,7 +33233,7 @@
     "eyes": "Crimson",
     "hair": "Socialist black",
     "mouth": "Huh",
-    "costume": "Rabbibi"
+    "hats": "Rabbibi"
   },
   "3520": {
     "backgrounds": "Only on mega",
@@ -33262,7 +33262,7 @@
     "eyes": "Wen moon",
     "hair": "Scruffy black",
     "mouth": "Huff",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "accessories": "Katana"
   },
   "3523": {
@@ -33291,7 +33291,7 @@
     "eyes": "Crimson",
     "hair": "Degen",
     "mouth": "Mmh",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "accessories": "Book"
   },
   "3526": {
@@ -33517,7 +33517,7 @@
     "eyes": "Brown",
     "hair": "Scruffy black",
     "mouth": "Haha",
-    "costume": "Rabbibi"
+    "hats": "Rabbibi"
   },
   "3550": {
     "backgrounds": "Remilia world order",
@@ -33535,7 +33535,7 @@
     "eyes": "Yellow",
     "hair": "Degen",
     "mouth": "Grrr",
-    "costume": "Rabbibi"
+    "hats": "Rabbibi"
   },
   "3552": {
     "backgrounds": "Not enough carrots",
@@ -33576,7 +33576,7 @@
     "eyes": "Crimson",
     "hair": "Degen",
     "mouth": "Uh",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "accessories": "Book"
   },
   "3556": {
@@ -33592,7 +33592,7 @@
     "backgrounds": "I am your megalio",
     "body": "Brown",
     "eyes": "Yellow",
-    "costume": "Megamafia pink",
+    "clothes": "Megamafia pink",
     "accessories": "Money"
   },
   "3558": {
@@ -33610,7 +33610,7 @@
     "eyes": "Green",
     "hair": "Scruffy black",
     "mouth": "Bling",
-    "costume": "Rabbibi"
+    "hats": "Rabbibi"
   },
   "3560": {
     "backgrounds": "Desert",
@@ -33805,7 +33805,7 @@
     "eyes": "Space",
     "hair": "Scruffy black",
     "mouth": "Haha",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "overlay": "BINANCEISOFFTHECHAINGTE"
   },
   "3581": {
@@ -33920,7 +33920,7 @@
     "eyes": "Red",
     "hair": "Socialist black",
     "mouth": "Grrr",
-    "costume": "Rabbibi"
+    "hats": "Rabbibi"
   },
   "3593": {
     "backgrounds": "Desert",
@@ -34021,7 +34021,7 @@
     "backgrounds": "Climate change is fake",
     "body": "Tan",
     "eyes": "Red",
-    "costume": "Megamafia green",
+    "clothes": "Megamafia green",
     "accessories": "Boxing"
   },
   "3604": {
@@ -34089,7 +34089,7 @@
     "eyes": "Blue",
     "hair": "Degen",
     "mouth": "Hehe",
-    "costume": "Rabbibi"
+    "hats": "Rabbibi"
   },
   "3611": {
     "backgrounds": "Vengeance",
@@ -34165,14 +34165,14 @@
     "eyes": "Swirl",
     "hair": "Socialist black",
     "mouth": "Huff",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "overlay": "MAKE IT RAIN"
   },
   "3619": {
     "backgrounds": "Head goes brrr",
     "body": "White",
     "eyes": "Grey",
-    "costume": "MegaMafia"
+    "clothes": "MegaMafia"
   },
   "3620": {
     "backgrounds": "Desert",
@@ -34253,7 +34253,7 @@
     "eyes": "Brown",
     "hair": "Scruffy black",
     "mouth": "Haha",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "overlay": "Win so hard"
   },
   "3628": {
@@ -34290,13 +34290,13 @@
     "eyes": "Error",
     "hair": "Scruffy black",
     "mouth": "Hehe",
-    "costume": "Rabbibi"
+    "hats": "Rabbibi"
   },
   "3632": {
     "backgrounds": "Aliens are here",
     "body": "White",
     "eyes": "Red",
-    "costume": "Megamafia pink",
+    "clothes": "Megamafia pink",
     "accessories": "Green candle"
   },
   "3633": {
@@ -34324,7 +34324,7 @@
     "eyes": "Swirl",
     "hair": "Scruffy black",
     "mouth": "Huh",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "accessories": "Megaeth token"
   },
   "3636": {
@@ -34356,7 +34356,7 @@
     "eyes": "Fluffle pink",
     "hair": "Socialist black",
     "mouth": "Grrr",
-    "costume": "Rabbibi"
+    "hats": "Rabbibi"
   },
   "3639": {
     "backgrounds": "Airport",
@@ -34441,7 +34441,7 @@
     "eyes": "Blue",
     "hair": "Degen",
     "mouth": "Clong",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "overlay": "My favourite dance is tea bag"
   },
   "3648": {
@@ -34461,7 +34461,7 @@
     "eyes": "Grey",
     "hair": "Scruffy black",
     "mouth": "Huh",
-    "costume": "Rabbibi"
+    "hats": "Rabbibi"
   },
   "3650": {
     "backgrounds": "Lambo",
@@ -34480,7 +34480,7 @@
     "eyes": "Blue",
     "hair": "Socialist black",
     "mouth": "Grrr",
-    "costume": "Rabbibi"
+    "hats": "Rabbibi"
   },
   "3652": {
     "backgrounds": "Illegal alien rabbit",
@@ -34586,7 +34586,7 @@
     "eyes": "Skies",
     "hair": "Scruffy black",
     "mouth": "Bling",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "accessories": "Golf"
   },
   "3663": {
@@ -34612,7 +34612,7 @@
     "backgrounds": "Cant c me",
     "body": "White",
     "eyes": "Green",
-    "costume": "MegaMafia"
+    "clothes": "MegaMafia"
   },
   "3666": {
     "backgrounds": "Mega background",
@@ -34650,7 +34650,7 @@
     "eyes": "Cybergreen",
     "hair": "Scruffy black",
     "mouth": "Huff",
-    "costume": "Rabbibi"
+    "hats": "Rabbibi"
   },
   "3670": {
     "backgrounds": "ETHBTC",
@@ -34659,7 +34659,7 @@
     "eyes": "Red",
     "hair": "Socialist black",
     "mouth": "Mmh",
-    "costume": "Rabbibi"
+    "hats": "Rabbibi"
   },
   "3671": {
     "backgrounds": "Winamp",
@@ -34781,7 +34781,7 @@
     "eyes": "Brown",
     "hair": "Scruffy black",
     "mouth": "Mmh",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "overlay": "JUSTIN SUN IS NOT A SMALL MAN SYNDROME"
   },
   "3684": {
@@ -34800,7 +34800,7 @@
     "eyes": "Skies",
     "hair": "Degen",
     "mouth": "Hehe",
-    "costume": "Rabbibi"
+    "hats": "Rabbibi"
   },
   "3686": {
     "backgrounds": "Remilia world order",
@@ -34927,7 +34927,7 @@
     "backgrounds": "Only on mega",
     "body": "Tattoo megaeth",
     "eyes": "Fluffle green",
-    "costume": "Megamafia pink",
+    "clothes": "Megamafia pink",
     "accessories": "Mug"
   },
   "3700": {
@@ -35032,7 +35032,7 @@
     "eyes": "Yellow",
     "hair": "Scruffy black",
     "mouth": "Clong",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "accessories": "Ledger"
   },
   "3711": {
@@ -35061,7 +35061,7 @@
     "eyes": "Yellow",
     "hair": "Socialist black",
     "mouth": "Huff",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "accessories": "Money"
   },
   "3714": {
@@ -35104,7 +35104,7 @@
     "eyes": "Wen moon",
     "hair": "Scruffy black",
     "mouth": "Clong",
-    "costume": "Rabbibi"
+    "hats": "Rabbibi"
   },
   "3718": {
     "backgrounds": "Burj",
@@ -35158,7 +35158,7 @@
     "backgrounds": "Rabbit cat",
     "body": "Pale",
     "eyes": "Blue",
-    "costume": "Megamafia pink",
+    "clothes": "Megamafia pink",
     "accessories": "Diamond hands"
   },
   "3724": {
@@ -35168,7 +35168,7 @@
     "eyes": "Pretty",
     "hair": "Scruffy black",
     "mouth": "Uh",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "overlay": "The most unaligned aligned"
   },
   "3725": {
@@ -35229,7 +35229,7 @@
     "backgrounds": "Megamafia",
     "body": "Tattoo gamer",
     "eyes": "Brown",
-    "costume": "Megamafia pink"
+    "clothes": "Megamafia pink"
   },
   "3731": {
     "backgrounds": "First place i went",
@@ -35305,7 +35305,7 @@
     "eyes": "Grey",
     "hair": "Scruffy black",
     "mouth": "Woaaah",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "accessories": "Green candle"
   },
   "3739": {
@@ -35322,7 +35322,7 @@
     "backgrounds": "Glorious location",
     "body": "Pale",
     "eyes": "Blue",
-    "costume": "Megamafia pink"
+    "clothes": "Megamafia pink"
   },
   "3741": {
     "backgrounds": "4chan",
@@ -35390,7 +35390,7 @@
     "eyes": "Red",
     "hair": "Scruffy black",
     "mouth": "Hehe",
-    "costume": "Rabbibi"
+    "hats": "Rabbibi"
   },
   "3748": {
     "backgrounds": "Mojo dojo",
@@ -35565,7 +35565,7 @@
     "backgrounds": "Mega article",
     "body": "Beige",
     "eyes": "Cybergreen",
-    "costume": "Megamafia green"
+    "clothes": "Megamafia green"
   },
   "3767": {
     "backgrounds": "Disected",
@@ -35581,7 +35581,7 @@
     "backgrounds": "Cuck chair",
     "body": "Zombie",
     "eyes": "Rain",
-    "costume": "Megamafia green",
+    "clothes": "Megamafia green",
     "accessories": "Green candle"
   },
   "3769": {
@@ -35600,7 +35600,7 @@
     "eyes": "Cybergreen",
     "hair": "Socialist black",
     "mouth": "Mmh",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "overlay": "My favourite dance is tea bag"
   },
   "3771": {
@@ -35610,7 +35610,7 @@
     "eyes": "Fluffle pink",
     "hair": "Scruffy black",
     "mouth": "Grrr",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "accessories": "Book"
   },
   "3772": {
@@ -35763,7 +35763,7 @@
     "eyes": "Yellow",
     "hair": "Scruffy black",
     "mouth": "Huh",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "accessories": "Ledger"
   },
   "3788": {
@@ -35960,7 +35960,7 @@
     "eyes": "Grey",
     "hair": "Socialist black",
     "mouth": "Hehe",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "accessories": "Green candle"
   },
   "3809": {
@@ -36140,7 +36140,7 @@
     "eyes": "Also swirl",
     "hair": "Scruffy black",
     "mouth": "Mmh",
-    "costume": "Rabbibi"
+    "hats": "Rabbibi"
   },
   "3828": {
     "backgrounds": "Masonic lodge",
@@ -36266,7 +36266,7 @@
     "eyes": "Error",
     "hair": "Degen",
     "mouth": "Mmh",
-    "costume": "Rabbibi"
+    "hats": "Rabbibi"
   },
   "3841": {
     "backgrounds": "Mega background",
@@ -36344,7 +36344,7 @@
     "eyes": "Grey",
     "hair": "Degen",
     "mouth": "Hehe",
-    "costume": "Rabbibi"
+    "hats": "Rabbibi"
   },
   "3849": {
     "backgrounds": "Rainmakr city",
@@ -36391,7 +36391,7 @@
     "eyes": "Rain",
     "hair": "Degen",
     "mouth": "Uh",
-    "costume": "Rabbibi"
+    "hats": "Rabbibi"
   },
   "3854": {
     "backgrounds": "Glitter factory",
@@ -36445,7 +36445,7 @@
     "backgrounds": "Psychedelic",
     "body": "Beige",
     "eyes": "Candy",
-    "costume": "Megamafia pink"
+    "clothes": "Megamafia pink"
   },
   "3860": {
     "backgrounds": "Climate change is fake",
@@ -36478,13 +36478,13 @@
     "backgrounds": "PingPong",
     "body": "Tattoo eth",
     "eyes": "Frost",
-    "costume": "Megamafia pink"
+    "clothes": "Megamafia pink"
   },
   "3864": {
     "backgrounds": "Mojo dojo",
     "body": "Brown",
     "eyes": "Red",
-    "costume": "MegaMafia",
+    "clothes": "MegaMafia",
     "accessories": "Book"
   },
   "3865": {
@@ -36754,7 +36754,7 @@
     "eyes": "Brown",
     "hair": "Scruffy black",
     "mouth": "Clong",
-    "costume": "Rabbibi"
+    "hats": "Rabbibi"
   },
   "3894": {
     "backgrounds": "Love island",
@@ -36839,7 +36839,7 @@
     "eyes": "Error",
     "hair": "Scruffy black",
     "mouth": "Haha",
-    "costume": "Rabbibi"
+    "hats": "Rabbibi"
   },
   "3903": {
     "backgrounds": "Omega",
@@ -36975,7 +36975,7 @@
     "eyes": "Blue",
     "hair": "Scruffy black",
     "mouth": "Hip",
-    "costume": "Rabbibi"
+    "hats": "Rabbibi"
   },
   "3917": {
     "backgrounds": "I am your megalio",
@@ -37092,7 +37092,7 @@
     "backgrounds": "Cuck chair",
     "body": "Pale",
     "eyes": "Red",
-    "costume": "Megamafia green",
+    "clothes": "Megamafia green",
     "accessories": "Book"
   },
   "3930": {
@@ -37131,7 +37131,7 @@
     "eyes": "Crimson",
     "hair": "Scruffy black",
     "mouth": "Woaaah",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "accessories": "Money"
   },
   "3934": {
@@ -37166,7 +37166,7 @@
     "eyes": "Yellow",
     "hair": "Scruffy black",
     "mouth": "Woaaah",
-    "costume": "Rabbibi"
+    "hats": "Rabbibi"
   },
   "3938": {
     "backgrounds": "Pyramids",
@@ -37192,7 +37192,7 @@
     "eyes": "Pretty",
     "hair": "Scruffy black",
     "mouth": "Haha",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "overlay": "My favourite dance is tea bag"
   },
   "3941": {
@@ -37671,7 +37671,7 @@
     "eyes": "Cybergreen",
     "hair": "Degen",
     "mouth": "Bling",
-    "costume": "Rabbibi"
+    "hats": "Rabbibi"
   },
   "3992": {
     "backgrounds": "Megabul",
@@ -37748,7 +37748,7 @@
     "eyes": "Red",
     "hair": "Socialist black",
     "mouth": "Huh",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "overlay": "Best i can do"
   },
   "4000": {
@@ -37995,7 +37995,7 @@
     "eyes": "Also swirl",
     "hair": "Degen",
     "mouth": "Huh",
-    "costume": "Rabbibi"
+    "hats": "Rabbibi"
   },
   "4026": {
     "backgrounds": "Lambo",
@@ -38349,14 +38349,14 @@
     "eyes": "Rain",
     "hair": "Scruffy black",
     "mouth": "Uh",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "accessories": "Golf"
   },
   "4063": {
     "backgrounds": "Head goes brrr",
     "body": "Robot",
     "eyes": "Yellow",
-    "costume": "Megamafia pink",
+    "clothes": "Megamafia pink",
     "accessories": "Mug"
   },
   "4064": {
@@ -38565,7 +38565,7 @@
     "eyes": "Rain",
     "hair": "Scruffy black",
     "mouth": "Haha",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "overlay": "I MUST BE TRIPPIN"
   },
   "4086": {
@@ -38585,7 +38585,7 @@
     "eyes": "Red",
     "hair": "Scruffy black",
     "mouth": "Grrr",
-    "costume": "Rabbibi"
+    "hats": "Rabbibi"
   },
   "4088": {
     "backgrounds": "Burj",
@@ -38651,14 +38651,14 @@
     "backgrounds": "Here we go again",
     "body": "Brown",
     "eyes": "Fluffle green",
-    "costume": "Megamafia pink",
+    "clothes": "Megamafia pink",
     "accessories": "Money"
   },
   "4095": {
     "backgrounds": "100k TPS",
     "body": "Tattoo gamer",
     "eyes": "Yellow",
-    "costume": "Megamafia pink"
+    "clothes": "Megamafia pink"
   },
   "4096": {
     "backgrounds": "Mega rabbit",
@@ -38748,7 +38748,7 @@
     "eyes": "Green",
     "hair": "Socialist black",
     "mouth": "Haha",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "accessories": "Sword"
   },
   "4106": {
@@ -38965,7 +38965,7 @@
     "backgrounds": "Omega",
     "body": "Tattoo eth",
     "eyes": "Cybergreen",
-    "costume": "Megamafia green"
+    "clothes": "Megamafia green"
   },
   "4129": {
     "backgrounds": "Fafel jet",
@@ -39020,7 +39020,7 @@
     "backgrounds": "Rainmakr city",
     "body": "Brown",
     "eyes": "Red",
-    "costume": "MegaMafia"
+    "clothes": "MegaMafia"
   },
   "4135": {
     "backgrounds": "No gas limit",
@@ -39059,7 +39059,7 @@
     "eyes": "Fluffle pink",
     "hair": "Degen",
     "mouth": "Woaaah",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "accessories": "Money"
   },
   "4139": {
@@ -39172,7 +39172,7 @@
     "backgrounds": "Masonic lodge",
     "body": "Tattoo chart",
     "eyes": "Green",
-    "costume": "MegaMafia",
+    "clothes": "MegaMafia",
     "accessories": "Lucille"
   },
   "4151": {
@@ -39266,7 +39266,7 @@
     "eyes": "Wen moon",
     "hair": "Scruffy black",
     "mouth": "Hip",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "accessories": "Boxing"
   },
   "4161": {
@@ -39282,7 +39282,7 @@
     "backgrounds": "Mega rabbit",
     "body": "White",
     "eyes": "Candy",
-    "costume": "MegaMafia",
+    "clothes": "MegaMafia",
     "accessories": "Book"
   },
   "4163": {
@@ -39452,7 +39452,7 @@
     "eyes": "Swirl",
     "hair": "Degen",
     "mouth": "Mmh",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "overlay": "MAKE IT RAIN"
   },
   "4181": {
@@ -39587,7 +39587,7 @@
     "backgrounds": "Actual trenches",
     "body": "Tattoo megaeth",
     "eyes": "Green",
-    "costume": "Megamafia green"
+    "clothes": "Megamafia green"
   },
   "4195": {
     "backgrounds": "True taxi",
@@ -39955,7 +39955,7 @@
     "eyes": "Green",
     "hair": "Degen",
     "mouth": "Mmh",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "overlay": "Pivot to Megaeth"
   },
   "4234": {
@@ -40065,7 +40065,7 @@
     "eyes": "Grey",
     "hair": "Scruffy black",
     "mouth": "Hip",
-    "costume": "Rabbibi"
+    "hats": "Rabbibi"
   },
   "4246": {
     "backgrounds": "Mega uptime",
@@ -40074,13 +40074,13 @@
     "eyes": "Also swirl",
     "hair": "Scruffy black",
     "mouth": "Bling",
-    "costume": "Rabbibi"
+    "hats": "Rabbibi"
   },
   "4247": {
     "backgrounds": "Climate change is fake",
     "body": "Glitch",
     "eyes": "Wen moon",
-    "costume": "MegaMafia",
+    "clothes": "MegaMafia",
     "necklace": "MWO"
   },
   "4248": {
@@ -40120,13 +40120,13 @@
     "eyes": "Yellow",
     "hair": "Socialist black",
     "mouth": "Woaaah",
-    "costume": "Rabbibi"
+    "hats": "Rabbibi"
   },
   "4252": {
     "backgrounds": "World pepe size",
     "body": "White",
     "eyes": "Reptilian",
-    "costume": "Megamafia green",
+    "clothes": "Megamafia green",
     "accessories": "Katana"
   },
   "4253": {
@@ -40146,7 +40146,7 @@
     "eyes": "Fluffle green",
     "hair": "Socialist black",
     "mouth": "Grrr",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "accessories": "Green saber"
   },
   "4255": {
@@ -40176,7 +40176,7 @@
     "eyes": "Rain",
     "hair": "Scruffy black",
     "mouth": "Haha",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "overlay": "Sparkles"
   },
   "4258": {
@@ -40293,13 +40293,13 @@
     "eyes": "Blue",
     "hair": "Degen",
     "mouth": "Clong",
-    "costume": "Rabbibi"
+    "hats": "Rabbibi"
   },
   "4271": {
     "backgrounds": "World pepe size",
     "body": "Tattoo eth",
     "eyes": "Pretty",
-    "costume": "Megamafia pink"
+    "clothes": "Megamafia pink"
   },
   "4272": {
     "backgrounds": "Hollywood basement",
@@ -40384,7 +40384,7 @@
     "eyes": "Fluffle pink",
     "hair": "Scruffy black",
     "mouth": "Huff",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "accessories": "Ethcc ticket"
   },
   "4281": {
@@ -40435,7 +40435,7 @@
     "eyes": "Green",
     "hair": "Scruffy black",
     "mouth": "Hip",
-    "costume": "Rabbibi"
+    "hats": "Rabbibi"
   },
   "4286": {
     "backgrounds": "Bread setup",
@@ -40519,7 +40519,7 @@
     "eyes": "Brown",
     "hair": "Socialist black",
     "mouth": "Haha",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "overlay": "I MUST BE TRIPPIN"
   },
   "4295": {
@@ -40641,7 +40641,7 @@
     "backgrounds": "Our profits",
     "body": "Brown",
     "eyes": "Red",
-    "costume": "Megamafia green",
+    "clothes": "Megamafia green",
     "accessories": "Ledger"
   },
   "4308": {
@@ -40703,13 +40703,13 @@
     "eyes": "Candy",
     "hair": "Degen",
     "mouth": "Bling",
-    "costume": "Rabbibi"
+    "hats": "Rabbibi"
   },
   "4315": {
     "backgrounds": "Megamafia",
     "body": "Tattoo megaeth",
     "eyes": "Candy",
-    "costume": "MegaMafia"
+    "clothes": "MegaMafia"
   },
   "4316": {
     "backgrounds": "Burj",
@@ -41088,7 +41088,7 @@
     "eyes": "Swirl",
     "hair": "Socialist black",
     "mouth": "Hehe",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "accessories": "Book"
   },
   "4356": {
@@ -41293,7 +41293,7 @@
     "eyes": "Candy",
     "hair": "Socialist black",
     "mouth": "Huh",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "overlay": "My favourite dance is tea bag"
   },
   "4378": {
@@ -41313,7 +41313,7 @@
     "eyes": "Red",
     "hair": "Socialist black",
     "mouth": "Huff",
-    "costume": "Rabbibi"
+    "hats": "Rabbibi"
   },
   "4380": {
     "backgrounds": "Brennan",
@@ -41348,7 +41348,7 @@
     "eyes": "Green",
     "hair": "Degen",
     "mouth": "Huh",
-    "costume": "Rabbibi"
+    "hats": "Rabbibi"
   },
   "4384": {
     "backgrounds": "Hello world",
@@ -41364,7 +41364,7 @@
     "backgrounds": "Copacabana",
     "body": "Tattoo gamer",
     "eyes": "Pretty",
-    "costume": "MegaMafia"
+    "clothes": "MegaMafia"
   },
   "4386": {
     "backgrounds": "Uwu",
@@ -41534,7 +41534,7 @@
     "eyes": "Green",
     "hair": "Scruffy black",
     "mouth": "Bling",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "overlay": "BINANCEISOFFTHECHAINGTE"
   },
   "4404": {
@@ -41671,7 +41671,7 @@
     "backgrounds": "Illegal alien rabbit",
     "body": "Brown",
     "eyes": "Error",
-    "costume": "Megamafia pink",
+    "clothes": "Megamafia pink",
     "accessories": "Money"
   },
   "4419": {
@@ -41699,7 +41699,7 @@
     "eyes": "Rain",
     "hair": "Degen",
     "mouth": "Hip",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "accessories": "Golf"
   },
   "4422": {
@@ -41746,7 +41746,7 @@
     "eyes": "Red",
     "hair": "Socialist black",
     "mouth": "Huff",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "accessories": "Vape"
   },
   "4427": {
@@ -41876,7 +41876,7 @@
     "eyes": "Green",
     "hair": "Socialist black",
     "mouth": "Woaaah",
-    "costume": "Rabbibi",
+    "hats": "Rabbibi",
     "overlay": "I MUST BE TRIPPIN"
   },
   "4441": {
